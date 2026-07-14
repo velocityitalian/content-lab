@@ -509,7 +509,7 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        vietnamese_file = output_dir / f"spanish_{i}.mp3"
+        vietnamese_file = output_dir / f"vietnamese_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         if (i + 1) % 20 == 0:
@@ -684,7 +684,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    spanish = phrase_data.get("vietnamese", "")
+    vietnamese = phrase_data.get("vietnamese", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -738,7 +738,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_total_h = len(en_lines) * en_line_h
     
     # 2. Vietnamese Box
-    vi_lines = wrap_text(spanish, font_vietnamese, VIDEO_WIDTH - 300)
+    vi_lines = wrap_text(vietnamese, font_vietnamese, VIDEO_WIDTH - 300)
     vi_line_h = 100
     vi_total_h = len(vi_lines) * vi_line_h
     
@@ -838,7 +838,7 @@ def generate_thumbnail(category_english: str, category_vietnamese: str, output_p
     font_badge = load_font(english_font_paths, 45)
 
     # Big Impact Title (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER SPANISH", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER vietnamese", fill=(45, 35, 65), font=font_huge, anchor="mm")
     
     # Category Badge (Lingexa Dark Purple)
     cat_text = category_english.upper()
@@ -942,7 +942,7 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Vietnamese: {phrase['spanish']}
+   Vietnamese: {phrase['vietnamese']}
    Pronunciation: {phrase['pronunciation']}
 """
 
@@ -1129,7 +1129,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['spanish']}")
+        print(f"  {i}. {phrase['english']} → {phrase['vietnamese']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
