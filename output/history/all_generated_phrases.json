@@ -17,7 +17,727 @@
       "vietnamese": "Bước nhỏ, tiến xa.",
       "category": "Motivation",
       "generated_at": "2026-07-15T04:41:40.862429"
+    },
+    {
+      "english": "Taste of success, sweet, like phở.",
+      "vietnamese": "Vị thành công, ngọt, như phở.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597905"
+    },
+    {
+      "english": "Each word learned, a new friend.",
+      "vietnamese": "Mỗi từ học, một người bạn mới.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597915"
+    },
+    {
+      "english": "Speak with heart, be understood.",
+      "vietnamese": "Nói bằng cả trái tim, bạn sẽ được hiểu.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597916"
+    },
+    {
+      "english": "Your voice matters, practice now.",
+      "vietnamese": "Giọng nói của bạn quan trọng, hãy tập ngay.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597917"
+    },
+    {
+      "english": "Learn a language, open a door.",
+      "vietnamese": "Học một ngôn ngữ, mở một cánh cửa.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597918"
+    },
+    {
+      "english": "Patience, blooms, beautiful words.",
+      "vietnamese": "Kiên nhẫn, sẽ nở, những lời đẹp đẽ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597919"
+    },
+    {
+      "english": "Curiosity, your best teacher.",
+      "vietnamese": "Sự tò mò, người thầy tốt nhất của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597920"
+    },
+    {
+      "english": "Mistakes are steps, not stumbles.",
+      "vietnamese": "Sai lầm là bước đi, không phải vấp ngã.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597922"
+    },
+    {
+      "english": "Celebrate small wins, every day.",
+      "vietnamese": "Ăn mừng những chiến thắng nhỏ, mỗi ngày.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597924"
+    },
+    {
+      "english": "Connect deeply, one sentence at time.",
+      "vietnamese": "Kết nối sâu sắc, từng câu một.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597925"
+    },
+    {
+      "english": "Joy in speaking, soon you'll find.",
+      "vietnamese": "Niềm vui khi nói, sớm bạn sẽ tìm thấy.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597926"
+    },
+    {
+      "english": "Vietnamese is a song, listen.",
+      "vietnamese": "Tiếng Việt là một bài hát, hãy lắng nghe.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597927"
+    },
+    {
+      "english": "Your effort shines, like sunlight.",
+      "vietnamese": "Nỗ lực của bạn tỏa sáng, như ánh mặt trời.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597928"
+    },
+    {
+      "english": "Understand culture, through language.",
+      "vietnamese": "Hiểu văn hóa, qua ngôn ngữ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597929"
+    },
+    {
+      "english": "Every conversation, a new adventure.",
+      "vietnamese": "Mỗi cuộc trò chuyện, một cuộc phiêu lưu mới.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597930"
+    },
+    {
+      "english": "Don't be shy, just try.",
+      "vietnamese": "Đừng ngại, cứ thử thôi.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597931"
+    },
+    {
+      "english": "Fluency is a journey, enjoy.",
+      "vietnamese": "Lưu loát là một hành trình, hãy tận hưởng.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597932"
+    },
+    {
+      "english": "Vietnamese spirit, in your words.",
+      "vietnamese": "Tinh thần Việt, trong lời nói của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597933"
+    },
+    {
+      "english": "Believe in your progress, always.",
+      "vietnamese": "Hãy tin vào sự tiến bộ của bạn, luôn luôn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597934"
+    },
+    {
+      "english": "Open your mind, speak freely.",
+      "vietnamese": "Mở rộng tâm trí, nói chuyện tự do.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597935"
+    },
+    {
+      "english": "Hear the rhythm, feel the flow.",
+      "vietnamese": "Nghe nhịp điệu, cảm nhận dòng chảy.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597936"
+    },
+    {
+      "english": "Your accent is unique, embrace it.",
+      "vietnamese": "Giọng của bạn độc đáo, hãy chấp nhận.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597937"
+    },
+    {
+      "english": "Small efforts, big impact.",
+      "vietnamese": "Những nỗ lực nhỏ, tác động lớn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597938"
+    },
+    {
+      "english": "Vietnamese culture, at your fingertips.",
+      "vietnamese": "Văn hóa Việt Nam, trong tầm tay bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597939"
+    },
+    {
+      "english": "Be brave, be bold, speak out.",
+      "vietnamese": "Hãy can đảm, hãy dũng cảm, hãy lên tiếng.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597940"
+    },
+    {
+      "english": "Understanding dawns, with practice.",
+      "vietnamese": "Sự thấu hiểu sẽ đến, cùng với thực hành.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597942"
+    },
+    {
+      "english": "Every sound, a new discovery.",
+      "vietnamese": "Mỗi âm thanh, một khám phá mới.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597943"
+    },
+    {
+      "english": "Your journey, your Vietnamese story.",
+      "vietnamese": "Hành trình của bạn, câu chuyện tiếng Việt của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597944"
+    },
+    {
+      "english": "Find joy, in every word.",
+      "vietnamese": "Tìm thấy niềm vui, trong mỗi từ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597945"
+    },
+    {
+      "english": "Speak like a local, feel at home.",
+      "vietnamese": "Nói như người bản xứ, cảm thấy như ở nhà.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597946"
+    },
+    {
+      "english": "Vietnamese smiles, unlock with words.",
+      "vietnamese": "Nụ cười Việt Nam, mở khóa bằng lời nói.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597946"
+    },
+    {
+      "english": "Your dedication, pays off.",
+      "vietnamese": "Sự cống hiến của bạn, sẽ được đền đáp.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597947"
+    },
+    {
+      "english": "Embrace the challenge, grow strong.",
+      "vietnamese": "Đón nhận thử thách, trưởng thành mạnh mẽ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597950"
+    },
+    {
+      "english": "Listen to the heart, speak your truth.",
+      "vietnamese": "Nghe theo trái tim, nói lên sự thật của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597951"
+    },
+    {
+      "english": "Vietnamese is vibrant, feel its pulse.",
+      "vietnamese": "Tiếng Việt sôi động, cảm nhận nhịp đập của nó.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597952"
+    },
+    {
+      "english": "One sentence shared, builds a bridge.",
+      "vietnamese": "Một câu chia sẻ, xây dựng một cây cầu.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597952"
+    },
+    {
+      "english": "Your efforts echo, in Vietnamese.",
+      "vietnamese": "Những nỗ lực của bạn vang vọng, trong tiếng Việt.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597953"
+    },
+    {
+      "english": "Speak with kindness, be heard.",
+      "vietnamese": "Nói chuyện bằng lòng tốt, bạn sẽ được lắng nghe.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597954"
+    },
+    {
+      "english": "Vietnamese wisdom, in simple phrases.",
+      "vietnamese": "Trí tuệ Việt Nam, trong những câu nói đơn giản.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597955"
+    },
+    {
+      "english": "Unlock your potential, start speaking.",
+      "vietnamese": "Mở khóa tiềm năng của bạn, bắt đầu nói.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597956"
+    },
+    {
+      "english": "Feel the connection, language brings.",
+      "vietnamese": "Cảm nhận sự kết nối, ngôn ngữ mang lại.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597957"
+    },
+    {
+      "english": "Taste of success, sweet, like phở.",
+      "vietnamese": "Vị thành công, ngọt, như phở.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597958"
+    },
+    {
+      "english": "Each word learned, a new friend.",
+      "vietnamese": "Mỗi từ học, một người bạn mới.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597959"
+    },
+    {
+      "english": "Speak with heart, be understood.",
+      "vietnamese": "Nói bằng cả trái tim, bạn sẽ được hiểu.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597960"
+    },
+    {
+      "english": "Your voice matters, practice now.",
+      "vietnamese": "Giọng nói của bạn quan trọng, hãy tập ngay.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597961"
+    },
+    {
+      "english": "Learn a language, open a door.",
+      "vietnamese": "Học một ngôn ngữ, mở một cánh cửa.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597961"
+    },
+    {
+      "english": "Patience, blooms, beautiful words.",
+      "vietnamese": "Kiên nhẫn, sẽ nở, những lời đẹp đẽ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597962"
+    },
+    {
+      "english": "Curiosity, your best teacher.",
+      "vietnamese": "Sự tò mò, người thầy tốt nhất của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597963"
+    },
+    {
+      "english": "Mistakes are steps, not stumbles.",
+      "vietnamese": "Sai lầm là bước đi, không phải vấp ngã.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597964"
+    },
+    {
+      "english": "Celebrate small wins, every day.",
+      "vietnamese": "Ăn mừng những chiến thắng nhỏ, mỗi ngày.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597965"
+    },
+    {
+      "english": "Connect deeply, one sentence at time.",
+      "vietnamese": "Kết nối sâu sắc, từng câu một.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597966"
+    },
+    {
+      "english": "Joy in speaking, soon you'll find.",
+      "vietnamese": "Niềm vui khi nói, sớm bạn sẽ tìm thấy.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597966"
+    },
+    {
+      "english": "Vietnamese is a song, listen.",
+      "vietnamese": "Tiếng Việt là một bài hát, hãy lắng nghe.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597967"
+    },
+    {
+      "english": "Your effort shines, like sunlight.",
+      "vietnamese": "Nỗ lực của bạn tỏa sáng, như ánh mặt trời.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597968"
+    },
+    {
+      "english": "Understand culture, through language.",
+      "vietnamese": "Hiểu văn hóa, qua ngôn ngữ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597969"
+    },
+    {
+      "english": "Every conversation, a new adventure.",
+      "vietnamese": "Mỗi cuộc trò chuyện, một cuộc phiêu lưu mới.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597970"
+    },
+    {
+      "english": "Don't be shy, just try.",
+      "vietnamese": "Đừng ngại, cứ thử thôi.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597971"
+    },
+    {
+      "english": "Fluency is a journey, enjoy.",
+      "vietnamese": "Lưu loát là một hành trình, hãy tận hưởng.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597973"
+    },
+    {
+      "english": "Vietnamese spirit, in your words.",
+      "vietnamese": "Tinh thần Việt, trong lời nói của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597974"
+    },
+    {
+      "english": "Believe in your progress, always.",
+      "vietnamese": "Hãy tin vào sự tiến bộ của bạn, luôn luôn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597975"
+    },
+    {
+      "english": "Open your mind, speak freely.",
+      "vietnamese": "Mở rộng tâm trí, nói chuyện tự do.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597976"
+    },
+    {
+      "english": "Hear the rhythm, feel the flow.",
+      "vietnamese": "Nghe nhịp điệu, cảm nhận dòng chảy.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597977"
+    },
+    {
+      "english": "Your accent is unique, embrace it.",
+      "vietnamese": "Giọng của bạn độc đáo, hãy chấp nhận.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597978"
+    },
+    {
+      "english": "Small efforts, big impact.",
+      "vietnamese": "Những nỗ lực nhỏ, tác động lớn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597979"
+    },
+    {
+      "english": "Vietnamese culture, at your fingertips.",
+      "vietnamese": "Văn hóa Việt Nam, trong tầm tay bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597980"
+    },
+    {
+      "english": "Be brave, be bold, speak out.",
+      "vietnamese": "Hãy can đảm, hãy dũng cảm, hãy lên tiếng.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597981"
+    },
+    {
+      "english": "Understanding dawns, with practice.",
+      "vietnamese": "Sự thấu hiểu sẽ đến, cùng với thực hành.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597982"
+    },
+    {
+      "english": "Every sound, a new discovery.",
+      "vietnamese": "Mỗi âm thanh, một khám phá mới.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597982"
+    },
+    {
+      "english": "Your journey, your Vietnamese story.",
+      "vietnamese": "Hành trình của bạn, câu chuyện tiếng Việt của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597983"
+    },
+    {
+      "english": "Find joy, in every word.",
+      "vietnamese": "Tìm thấy niềm vui, trong mỗi từ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597984"
+    },
+    {
+      "english": "Speak like a local, feel at home.",
+      "vietnamese": "Nói như người bản xứ, cảm thấy như ở nhà.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597985"
+    },
+    {
+      "english": "Vietnamese smiles, unlock with words.",
+      "vietnamese": "Nụ cười Việt Nam, mở khóa bằng lời nói.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597986"
+    },
+    {
+      "english": "Your dedication, pays off.",
+      "vietnamese": "Sự cống hiến của bạn, sẽ được đền đáp.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597987"
+    },
+    {
+      "english": "Embrace the challenge, grow strong.",
+      "vietnamese": "Đón nhận thử thách, trưởng thành mạnh mẽ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597987"
+    },
+    {
+      "english": "Listen to the heart, speak your truth.",
+      "vietnamese": "Nghe theo trái tim, nói lên sự thật của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597988"
+    },
+    {
+      "english": "Vietnamese is vibrant, feel its pulse.",
+      "vietnamese": "Tiếng Việt sôi động, cảm nhận nhịp đập của nó.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597989"
+    },
+    {
+      "english": "One sentence shared, builds a bridge.",
+      "vietnamese": "Một câu chia sẻ, xây dựng một cây cầu.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597990"
+    },
+    {
+      "english": "Your efforts echo, in Vietnamese.",
+      "vietnamese": "Những nỗ lực của bạn vang vọng, trong tiếng Việt.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597991"
+    },
+    {
+      "english": "Speak with kindness, be heard.",
+      "vietnamese": "Nói chuyện bằng lòng tốt, bạn sẽ được lắng nghe.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597991"
+    },
+    {
+      "english": "Vietnamese wisdom, in simple phrases.",
+      "vietnamese": "Trí tuệ Việt Nam, trong những câu nói đơn giản.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597992"
+    },
+    {
+      "english": "Unlock your potential, start speaking.",
+      "vietnamese": "Mở khóa tiềm năng của bạn, bắt đầu nói.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597993"
+    },
+    {
+      "english": "Feel the connection, language brings.",
+      "vietnamese": "Cảm nhận sự kết nối, ngôn ngữ mang lại.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597994"
+    },
+    {
+      "english": "Taste of success, sweet, like phở.",
+      "vietnamese": "Vị thành công, ngọt, như phở.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597995"
+    },
+    {
+      "english": "Each word learned, a new friend.",
+      "vietnamese": "Mỗi từ học, một người bạn mới.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597996"
+    },
+    {
+      "english": "Speak with heart, be understood.",
+      "vietnamese": "Nói bằng cả trái tim, bạn sẽ được hiểu.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597997"
+    },
+    {
+      "english": "Your voice matters, practice now.",
+      "vietnamese": "Giọng nói của bạn quan trọng, hãy tập ngay.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597998"
+    },
+    {
+      "english": "Learn a language, open a door.",
+      "vietnamese": "Học một ngôn ngữ, mở một cánh cửa.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.597999"
+    },
+    {
+      "english": "Patience, blooms, beautiful words.",
+      "vietnamese": "Kiên nhẫn, sẽ nở, những lời đẹp đẽ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598000"
+    },
+    {
+      "english": "Curiosity, your best teacher.",
+      "vietnamese": "Sự tò mò, người thầy tốt nhất của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598000"
+    },
+    {
+      "english": "Mistakes are steps, not stumbles.",
+      "vietnamese": "Sai lầm là bước đi, không phải vấp ngã.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598002"
+    },
+    {
+      "english": "Celebrate small wins, every day.",
+      "vietnamese": "Ăn mừng những chiến thắng nhỏ, mỗi ngày.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598003"
+    },
+    {
+      "english": "Connect deeply, one sentence at time.",
+      "vietnamese": "Kết nối sâu sắc, từng câu một.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598004"
+    },
+    {
+      "english": "Joy in speaking, soon you'll find.",
+      "vietnamese": "Niềm vui khi nói, sớm bạn sẽ tìm thấy.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598005"
+    },
+    {
+      "english": "Vietnamese is a song, listen.",
+      "vietnamese": "Tiếng Việt là một bài hát, hãy lắng nghe.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598006"
+    },
+    {
+      "english": "Your effort shines, like sunlight.",
+      "vietnamese": "Nỗ lực của bạn tỏa sáng, như ánh mặt trời.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598006"
+    },
+    {
+      "english": "Understand culture, through language.",
+      "vietnamese": "Hiểu văn hóa, qua ngôn ngữ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598007"
+    },
+    {
+      "english": "Every conversation, a new adventure.",
+      "vietnamese": "Mỗi cuộc trò chuyện, một cuộc phiêu lưu mới.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598008"
+    },
+    {
+      "english": "Don't be shy, just try.",
+      "vietnamese": "Đừng ngại, cứ thử thôi.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598009"
+    },
+    {
+      "english": "Fluency is a journey, enjoy.",
+      "vietnamese": "Lưu loát là một hành trình, hãy tận hưởng.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598009"
+    },
+    {
+      "english": "Vietnamese spirit, in your words.",
+      "vietnamese": "Tinh thần Việt, trong lời nói của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598010"
+    },
+    {
+      "english": "Believe in your progress, always.",
+      "vietnamese": "Hãy tin vào sự tiến bộ của bạn, luôn luôn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598011"
+    },
+    {
+      "english": "Open your mind, speak freely.",
+      "vietnamese": "Mở rộng tâm trí, nói chuyện tự do.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598011"
+    },
+    {
+      "english": "Hear the rhythm, feel the flow.",
+      "vietnamese": "Nghe nhịp điệu, cảm nhận dòng chảy.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598012"
+    },
+    {
+      "english": "Your accent is unique, embrace it.",
+      "vietnamese": "Giọng của bạn độc đáo, hãy chấp nhận.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598013"
+    },
+    {
+      "english": "Small efforts, big impact.",
+      "vietnamese": "Những nỗ lực nhỏ, tác động lớn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598014"
+    },
+    {
+      "english": "Vietnamese culture, at your fingertips.",
+      "vietnamese": "Văn hóa Việt Nam, trong tầm tay bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598014"
+    },
+    {
+      "english": "Be brave, be bold, speak out.",
+      "vietnamese": "Hãy can đảm, hãy dũng cảm, hãy lên tiếng.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598015"
+    },
+    {
+      "english": "Understanding dawns, with practice.",
+      "vietnamese": "Sự thấu hiểu sẽ đến, cùng với thực hành.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598016"
+    },
+    {
+      "english": "Every sound, a new discovery.",
+      "vietnamese": "Mỗi âm thanh, một khám phá mới.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598016"
+    },
+    {
+      "english": "Your journey, your Vietnamese story.",
+      "vietnamese": "Hành trình của bạn, câu chuyện tiếng Việt của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598017"
+    },
+    {
+      "english": "Find joy, in every word.",
+      "vietnamese": "Tìm thấy niềm vui, trong mỗi từ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598018"
+    },
+    {
+      "english": "Speak like a local, feel at home.",
+      "vietnamese": "Nói như người bản xứ, cảm thấy như ở nhà.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598019"
+    },
+    {
+      "english": "Vietnamese smiles, unlock with words.",
+      "vietnamese": "Nụ cười Việt Nam, mở khóa bằng lời nói.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598019"
+    },
+    {
+      "english": "Your dedication, pays off.",
+      "vietnamese": "Sự cống hiến của bạn, sẽ được đền đáp.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598020"
+    },
+    {
+      "english": "Embrace the challenge, grow strong.",
+      "vietnamese": "Đón nhận thử thách, trưởng thành mạnh mẽ.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598021"
+    },
+    {
+      "english": "Listen to the heart, speak your truth.",
+      "vietnamese": "Nghe theo trái tim, nói lên sự thật của bạn.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598022"
+    },
+    {
+      "english": "Vietnamese is vibrant, feel its pulse.",
+      "vietnamese": "Tiếng Việt sôi động, cảm nhận nhịp đập của nó.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598022"
+    },
+    {
+      "english": "One sentence shared, builds a bridge.",
+      "vietnamese": "Một câu chia sẻ, xây dựng một cây cầu.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598023"
+    },
+    {
+      "english": "Your efforts echo, in Vietnamese.",
+      "vietnamese": "Những nỗ lực của bạn vang vọng, trong tiếng Việt.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598024"
+    },
+    {
+      "english": "Speak with kindness, be heard.",
+      "vietnamese": "Nói chuyện bằng lòng tốt, bạn sẽ được lắng nghe.",
+      "category": "Success",
+      "generated_at": "2026-07-14T23:31:23.598024"
     }
   ],
-  "last_updated": "2026-07-15T04:41:40.862429"
+  "last_updated": "2026-07-14T23:31:23.598027"
 }
