@@ -55,9 +55,12 @@ def upload_to_youtube():
             return False
 
         title = meta["title"]
+        if not title or len(title.strip()) < 5:
+            title = f"Learn Vietnamese - Language Learning"
+            print(f"[youtube] Using fallback title")
         description = meta["description"]
         if len(description) > 4900:
-            description = description[:4900] + "\n\n#LearnSpanish #Spanish #LanguageLearning"
+            description = description[:4900] + "\n\n#LearnVietnamese #Vietnamese #LanguageLearning"
             print(f"[youtube] Description truncated to {len(description)} chars")
         tags = meta["tags"]
 
