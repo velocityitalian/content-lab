@@ -737,7 +737,727 @@
       "vietnamese": "Nói chuyện bằng lòng tốt, bạn sẽ được lắng nghe.",
       "category": "Success",
       "generated_at": "2026-07-14T23:31:23.598024"
+    },
+    {
+      "english": "Listen closely, hear the meaning.",
+      "vietnamese": "Nghe kỹ, hiểu ý.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713237"
+    },
+    {
+      "english": "Point and smile, it works.",
+      "vietnamese": "Chỉ tay, cười, hiệu quả.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713246"
+    },
+    {
+      "english": "Learn one word, make a friend.",
+      "vietnamese": "Học một từ, có bạn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713248"
+    },
+    {
+      "english": "Don't fear mistakes, they teach.",
+      "vietnamese": "Đừng sợ sai, nó dạy.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713249"
+    },
+    {
+      "english": "Ask for help, it’s polite.",
+      "vietnamese": "Xin giúp đỡ, rất lễ phép.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713251"
+    },
+    {
+      "english": "Food connects us, share a meal.",
+      "vietnamese": "Ăn uống gắn kết, chia bữa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713252"
+    },
+    {
+      "english": "Use pictures, they speak loudly.",
+      "vietnamese": "Dùng hình ảnh, nói to.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713254"
+    },
+    {
+      "english": "Copy my mouth, get the sound.",
+      "vietnamese": "Bắt chước miệng tôi, nghe chuẩn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713257"
+    },
+    {
+      "english": "Repeat often, it sticks.",
+      "vietnamese": "Lặp lại nhiều, sẽ nhớ.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713258"
+    },
+    {
+      "english": "Point to things, learn names.",
+      "vietnamese": "Chỉ vật, học tên.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713260"
+    },
+    {
+      "english": "Music helps learn, sing along.",
+      "vietnamese": "Nhạc giúp học, hát theo.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713261"
+    },
+    {
+      "english": "Gestures tell stories, use hands.",
+      "vietnamese": "Cử chỉ kể chuyện, dùng tay.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713262"
+    },
+    {
+      "english": "A little effort, goes far.",
+      "vietnamese": "Một chút nỗ lực, rất xa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713264"
+    },
+    {
+      "english": "Write it down, remember better.",
+      "vietnamese": "Viết ra, nhớ hơn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713265"
+    },
+    {
+      "english": "Say 'thank you', always.",
+      "vietnamese": "Nói 'cảm ơn', luôn luôn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713266"
+    },
+    {
+      "english": "Be patient, it's a skill.",
+      "vietnamese": "Kiên nhẫn, đó là kỹ năng.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713267"
+    },
+    {
+      "english": "Laugh together, learn more.",
+      "vietnamese": "Cười cùng nhau, học nhiều.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713268"
+    },
+    {
+      "english": "Every question, opens doors.",
+      "vietnamese": "Mọi câu hỏi, mở cửa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713269"
+    },
+    {
+      "english": "Small talk matters, start now.",
+      "vietnamese": "Chuyện nhỏ quan trọng, bắt đầu.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713270"
+    },
+    {
+      "english": "Use simple phrases, build confidence.",
+      "vietnamese": "Dùng câu đơn giản, tự tin.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713272"
+    },
+    {
+      "english": "Imitate sounds, perfect tone.",
+      "vietnamese": "Bắt chước âm thanh, chuẩn giọng.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713273"
+    },
+    {
+      "english": "Observe closely, mimic well.",
+      "vietnamese": "Quan sát kỹ, bắt chước hay.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713274"
+    },
+    {
+      "english": "Your voice matters, use it.",
+      "vietnamese": "Giọng bạn quan trọng, dùng đi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713275"
+    },
+    {
+      "english": "Be curious, explore language.",
+      "vietnamese": "Tò mò, khám phá ngôn ngữ.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713276"
+    },
+    {
+      "english": "Practice daily, it's key.",
+      "vietnamese": "Luyện tập mỗi ngày, là chìa khóa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713277"
+    },
+    {
+      "english": "A friendly nod, means a lot.",
+      "vietnamese": "Gật đầu thân thiện, ý nghĩa lớn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713278"
+    },
+    {
+      "english": "Don't be afraid, to try.",
+      "vietnamese": "Đừng ngại, thử đi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713279"
+    },
+    {
+      "english": "Listen to the elders, they know.",
+      "vietnamese": "Nghe người lớn tuổi, họ biết.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713281"
+    },
+    {
+      "english": "Share a laugh, break the ice.",
+      "vietnamese": "Cười vui, phá băng.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713282"
+    },
+    {
+      "english": "Use your hands, show what you mean.",
+      "vietnamese": "Dùng tay, chỉ điều bạn muốn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713283"
+    },
+    {
+      "english": "Find your own pace, learn.",
+      "vietnamese": "Tìm nhịp riêng, học thôi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713284"
+    },
+    {
+      "english": "One phrase learned, one step forward.",
+      "vietnamese": "Một câu học, một bước tiến.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713285"
+    },
+    {
+      "english": "Don't overthink, just speak.",
+      "vietnamese": "Đừng nghĩ nhiều, cứ nói.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713286"
+    },
+    {
+      "english": "See beauty, in the sounds.",
+      "vietnamese": "Thấy đẹp, trong âm thanh.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713287"
+    },
+    {
+      "english": "Every interaction, a chance.",
+      "vietnamese": "Mọi tương tác, một cơ hội.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713297"
+    },
+    {
+      "english": "Mimic tones, sound right.",
+      "vietnamese": "Bắt chước giọng điệu, nghe chuẩn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713298"
+    },
+    {
+      "english": "Ask for repetition, no shame.",
+      "vietnamese": "Xin lặp lại, không ngại.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713299"
+    },
+    {
+      "english": "Use context clues, guess meaning.",
+      "vietnamese": "Dùng ngữ cảnh, đoán nghĩa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713300"
+    },
+    {
+      "english": "Enthusiasm opens doors, be eager.",
+      "vietnamese": "Nhiệt tình mở cửa, hãy ham học.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713301"
+    },
+    {
+      "english": "A simple greeting, goes far.",
+      "vietnamese": "Lời chào đơn giản, rất hiệu quả.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713302"
+    },
+    {
+      "english": "Listen closely, hear the meaning.",
+      "vietnamese": "Nghe kỹ, hiểu ý.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713303"
+    },
+    {
+      "english": "Point and smile, it works.",
+      "vietnamese": "Chỉ tay, cười, hiệu quả.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713305"
+    },
+    {
+      "english": "Learn one word, make a friend.",
+      "vietnamese": "Học một từ, có bạn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713306"
+    },
+    {
+      "english": "Don't fear mistakes, they teach.",
+      "vietnamese": "Đừng sợ sai, nó dạy.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713307"
+    },
+    {
+      "english": "Ask for help, it’s polite.",
+      "vietnamese": "Xin giúp đỡ, rất lễ phép.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713308"
+    },
+    {
+      "english": "Food connects us, share a meal.",
+      "vietnamese": "Ăn uống gắn kết, chia bữa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713309"
+    },
+    {
+      "english": "Use pictures, they speak loudly.",
+      "vietnamese": "Dùng hình ảnh, nói to.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713310"
+    },
+    {
+      "english": "Copy my mouth, get the sound.",
+      "vietnamese": "Bắt chước miệng tôi, nghe chuẩn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713311"
+    },
+    {
+      "english": "Repeat often, it sticks.",
+      "vietnamese": "Lặp lại nhiều, sẽ nhớ.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713313"
+    },
+    {
+      "english": "Point to things, learn names.",
+      "vietnamese": "Chỉ vật, học tên.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713314"
+    },
+    {
+      "english": "Music helps learn, sing along.",
+      "vietnamese": "Nhạc giúp học, hát theo.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713315"
+    },
+    {
+      "english": "Gestures tell stories, use hands.",
+      "vietnamese": "Cử chỉ kể chuyện, dùng tay.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713316"
+    },
+    {
+      "english": "A little effort, goes far.",
+      "vietnamese": "Một chút nỗ lực, rất xa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713317"
+    },
+    {
+      "english": "Write it down, remember better.",
+      "vietnamese": "Viết ra, nhớ hơn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713319"
+    },
+    {
+      "english": "Say 'thank you', always.",
+      "vietnamese": "Nói 'cảm ơn', luôn luôn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713320"
+    },
+    {
+      "english": "Be patient, it's a skill.",
+      "vietnamese": "Kiên nhẫn, đó là kỹ năng.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713321"
+    },
+    {
+      "english": "Laugh together, learn more.",
+      "vietnamese": "Cười cùng nhau, học nhiều.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713322"
+    },
+    {
+      "english": "Every question, opens doors.",
+      "vietnamese": "Mọi câu hỏi, mở cửa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713323"
+    },
+    {
+      "english": "Small talk matters, start now.",
+      "vietnamese": "Chuyện nhỏ quan trọng, bắt đầu.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713324"
+    },
+    {
+      "english": "Use simple phrases, build confidence.",
+      "vietnamese": "Dùng câu đơn giản, tự tin.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713327"
+    },
+    {
+      "english": "Imitate sounds, perfect tone.",
+      "vietnamese": "Bắt chước âm thanh, chuẩn giọng.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713328"
+    },
+    {
+      "english": "Observe closely, mimic well.",
+      "vietnamese": "Quan sát kỹ, bắt chước hay.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713329"
+    },
+    {
+      "english": "Your voice matters, use it.",
+      "vietnamese": "Giọng bạn quan trọng, dùng đi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713331"
+    },
+    {
+      "english": "Be curious, explore language.",
+      "vietnamese": "Tò mò, khám phá ngôn ngữ.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713333"
+    },
+    {
+      "english": "Practice daily, it's key.",
+      "vietnamese": "Luyện tập mỗi ngày, là chìa khóa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713335"
+    },
+    {
+      "english": "A friendly nod, means a lot.",
+      "vietnamese": "Gật đầu thân thiện, ý nghĩa lớn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713337"
+    },
+    {
+      "english": "Don't be afraid, to try.",
+      "vietnamese": "Đừng ngại, thử đi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713338"
+    },
+    {
+      "english": "Listen to the elders, they know.",
+      "vietnamese": "Nghe người lớn tuổi, họ biết.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713340"
+    },
+    {
+      "english": "Share a laugh, break the ice.",
+      "vietnamese": "Cười vui, phá băng.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713341"
+    },
+    {
+      "english": "Use your hands, show what you mean.",
+      "vietnamese": "Dùng tay, chỉ điều bạn muốn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713342"
+    },
+    {
+      "english": "Find your own pace, learn.",
+      "vietnamese": "Tìm nhịp riêng, học thôi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713343"
+    },
+    {
+      "english": "One phrase learned, one step forward.",
+      "vietnamese": "Một câu học, một bước tiến.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713344"
+    },
+    {
+      "english": "Don't overthink, just speak.",
+      "vietnamese": "Đừng nghĩ nhiều, cứ nói.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713345"
+    },
+    {
+      "english": "See beauty, in the sounds.",
+      "vietnamese": "Thấy đẹp, trong âm thanh.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713346"
+    },
+    {
+      "english": "Every interaction, a chance.",
+      "vietnamese": "Mọi tương tác, một cơ hội.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713347"
+    },
+    {
+      "english": "Mimic tones, sound right.",
+      "vietnamese": "Bắt chước giọng điệu, nghe chuẩn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713348"
+    },
+    {
+      "english": "Ask for repetition, no shame.",
+      "vietnamese": "Xin lặp lại, không ngại.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713349"
+    },
+    {
+      "english": "Use context clues, guess meaning.",
+      "vietnamese": "Dùng ngữ cảnh, đoán nghĩa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713350"
+    },
+    {
+      "english": "Enthusiasm opens doors, be eager.",
+      "vietnamese": "Nhiệt tình mở cửa, hãy ham học.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713351"
+    },
+    {
+      "english": "A simple greeting, goes far.",
+      "vietnamese": "Lời chào đơn giản, rất hiệu quả.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713352"
+    },
+    {
+      "english": "Listen closely, hear the meaning.",
+      "vietnamese": "Nghe kỹ, hiểu ý.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713353"
+    },
+    {
+      "english": "Point and smile, it works.",
+      "vietnamese": "Chỉ tay, cười, hiệu quả.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713354"
+    },
+    {
+      "english": "Learn one word, make a friend.",
+      "vietnamese": "Học một từ, có bạn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713355"
+    },
+    {
+      "english": "Don't fear mistakes, they teach.",
+      "vietnamese": "Đừng sợ sai, nó dạy.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713356"
+    },
+    {
+      "english": "Ask for help, it’s polite.",
+      "vietnamese": "Xin giúp đỡ, rất lễ phép.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713357"
+    },
+    {
+      "english": "Food connects us, share a meal.",
+      "vietnamese": "Ăn uống gắn kết, chia bữa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713358"
+    },
+    {
+      "english": "Use pictures, they speak loudly.",
+      "vietnamese": "Dùng hình ảnh, nói to.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713359"
+    },
+    {
+      "english": "Copy my mouth, get the sound.",
+      "vietnamese": "Bắt chước miệng tôi, nghe chuẩn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713360"
+    },
+    {
+      "english": "Repeat often, it sticks.",
+      "vietnamese": "Lặp lại nhiều, sẽ nhớ.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713361"
+    },
+    {
+      "english": "Point to things, learn names.",
+      "vietnamese": "Chỉ vật, học tên.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713362"
+    },
+    {
+      "english": "Music helps learn, sing along.",
+      "vietnamese": "Nhạc giúp học, hát theo.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713363"
+    },
+    {
+      "english": "Gestures tell stories, use hands.",
+      "vietnamese": "Cử chỉ kể chuyện, dùng tay.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713365"
+    },
+    {
+      "english": "A little effort, goes far.",
+      "vietnamese": "Một chút nỗ lực, rất xa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713366"
+    },
+    {
+      "english": "Write it down, remember better.",
+      "vietnamese": "Viết ra, nhớ hơn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713367"
+    },
+    {
+      "english": "Say 'thank you', always.",
+      "vietnamese": "Nói 'cảm ơn', luôn luôn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713368"
+    },
+    {
+      "english": "Be patient, it's a skill.",
+      "vietnamese": "Kiên nhẫn, đó là kỹ năng.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713369"
+    },
+    {
+      "english": "Laugh together, learn more.",
+      "vietnamese": "Cười cùng nhau, học nhiều.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713370"
+    },
+    {
+      "english": "Every question, opens doors.",
+      "vietnamese": "Mọi câu hỏi, mở cửa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713372"
+    },
+    {
+      "english": "Small talk matters, start now.",
+      "vietnamese": "Chuyện nhỏ quan trọng, bắt đầu.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713374"
+    },
+    {
+      "english": "Use simple phrases, build confidence.",
+      "vietnamese": "Dùng câu đơn giản, tự tin.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713375"
+    },
+    {
+      "english": "Imitate sounds, perfect tone.",
+      "vietnamese": "Bắt chước âm thanh, chuẩn giọng.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713376"
+    },
+    {
+      "english": "Observe closely, mimic well.",
+      "vietnamese": "Quan sát kỹ, bắt chước hay.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713377"
+    },
+    {
+      "english": "Your voice matters, use it.",
+      "vietnamese": "Giọng bạn quan trọng, dùng đi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713378"
+    },
+    {
+      "english": "Be curious, explore language.",
+      "vietnamese": "Tò mò, khám phá ngôn ngữ.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713379"
+    },
+    {
+      "english": "Practice daily, it's key.",
+      "vietnamese": "Luyện tập mỗi ngày, là chìa khóa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713380"
+    },
+    {
+      "english": "A friendly nod, means a lot.",
+      "vietnamese": "Gật đầu thân thiện, ý nghĩa lớn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713381"
+    },
+    {
+      "english": "Don't be afraid, to try.",
+      "vietnamese": "Đừng ngại, thử đi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713382"
+    },
+    {
+      "english": "Listen to the elders, they know.",
+      "vietnamese": "Nghe người lớn tuổi, họ biết.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713383"
+    },
+    {
+      "english": "Share a laugh, break the ice.",
+      "vietnamese": "Cười vui, phá băng.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713384"
+    },
+    {
+      "english": "Use your hands, show what you mean.",
+      "vietnamese": "Dùng tay, chỉ điều bạn muốn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713385"
+    },
+    {
+      "english": "Find your own pace, learn.",
+      "vietnamese": "Tìm nhịp riêng, học thôi.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713386"
+    },
+    {
+      "english": "One phrase learned, one step forward.",
+      "vietnamese": "Một câu học, một bước tiến.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713387"
+    },
+    {
+      "english": "Don't overthink, just speak.",
+      "vietnamese": "Đừng nghĩ nhiều, cứ nói.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713388"
+    },
+    {
+      "english": "See beauty, in the sounds.",
+      "vietnamese": "Thấy đẹp, trong âm thanh.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713389"
+    },
+    {
+      "english": "Every interaction, a chance.",
+      "vietnamese": "Mọi tương tác, một cơ hội.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713391"
+    },
+    {
+      "english": "Mimic tones, sound right.",
+      "vietnamese": "Bắt chước giọng điệu, nghe chuẩn.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713393"
+    },
+    {
+      "english": "Ask for repetition, no shame.",
+      "vietnamese": "Xin lặp lại, không ngại.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713394"
+    },
+    {
+      "english": "Use context clues, guess meaning.",
+      "vietnamese": "Dùng ngữ cảnh, đoán nghĩa.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713395"
+    },
+    {
+      "english": "Enthusiasm opens doors, be eager.",
+      "vietnamese": "Nhiệt tình mở cửa, hãy ham học.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713396"
+    },
+    {
+      "english": "A simple greeting, goes far.",
+      "vietnamese": "Lời chào đơn giản, rất hiệu quả.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-15T03:51:34.713397"
     }
   ],
-  "last_updated": "2026-07-14T23:31:23.598027"
+  "last_updated": "2026-07-15T03:51:34.713398"
 }
