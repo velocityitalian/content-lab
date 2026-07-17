@@ -911,7 +911,7 @@ def generate_title_description(category_english: str, category_Vietnamese: str, 
     ]
 
     # Generate comprehensive description
-    description = f"""🇪🇸 Learn Vietnamese with Velocity Vietnamese! 🇪🇸
+    description = f"""🇻🇳 Learn Vietnamese with Velocity Vietnamese! 🇻🇳
 
 In this video, you'll learn 60 essential Vietnamese phrases about {category_english} ({category_Vietnamese}).
 Perfect for beginners and intermediate learners!
@@ -1261,7 +1261,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇪🇸 VELOCITY Vietnamese - YOUTUBE LONG-FORM AUTOMATION 🇪🇸")
+    print("🇻🇳 VELOCITY Vietnamese - YOUTUBE LONG-FORM AUTOMATION 🇻🇳")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
