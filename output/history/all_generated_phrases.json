@@ -2177,7 +2177,727 @@
       "Vietnamese": "Nhịp điệu thiên nhiên, tìm bạn.",
       "category": "Inner Peace",
       "generated_at": "2026-07-16T03:54:41.844743"
+    },
+    {
+      "english": "Thank you, really, so much.",
+      "Vietnamese": "Cảm ơn, thật sự, nhiều lắm.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731538"
+    },
+    {
+      "english": "I appreciate, this help.",
+      "Vietnamese": "Tôi trân trọng, sự giúp đỡ này.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731549"
+    },
+    {
+      "english": "You're a lifesaver, truly.",
+      "Vietnamese": "Bạn đúng là, cứu tinh.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731550"
+    },
+    {
+      "english": "This means, a lot to me.",
+      "Vietnamese": "Điều này, rất có ý nghĩa.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731551"
+    },
+    {
+      "english": "I'm so grateful, for you.",
+      "Vietnamese": "Tôi rất biết ơn, bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731552"
+    },
+    {
+      "english": "You're amazing, honestly.",
+      "Vietnamese": "Bạn thật tuyệt, quá.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731553"
+    },
+    {
+      "english": "I owe you, one big time.",
+      "Vietnamese": "Tôi nợ bạn, một ân tình lớn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731554"
+    },
+    {
+      "english": "This is, incredible kindness.",
+      "Vietnamese": "Đây là, lòng tốt tuyệt vời.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731557"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "Vietnamese": "Cảm ơn, vì tất cả.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731558"
+    },
+    {
+      "english": "I don't know, what to say.",
+      "Vietnamese": "Tôi không biết, nói gì.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731560"
+    },
+    {
+      "english": "You saved, the day.",
+      "Vietnamese": "Bạn đã cứu, nguyệt quế.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731561"
+    },
+    {
+      "english": "Such a good person, you are.",
+      "Vietnamese": "Bạn là người, tốt quá.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731562"
+    },
+    {
+      "english": "My heartfelt thanks, go to you.",
+      "Vietnamese": "Lời cảm ơn, chân thành.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731562"
+    },
+    {
+      "english": "You're too kind, really.",
+      "Vietnamese": "Bạn quá tốt, thật đó.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731563"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "Vietnamese": "Tôi mang ơn, bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731564"
+    },
+    {
+      "english": "This is, very thoughtful.",
+      "Vietnamese": "Thật là, chu đáo.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731565"
+    },
+    {
+      "english": "I can't thank, you enough.",
+      "Vietnamese": "Tôi cảm ơn, bạn không hết.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731566"
+    },
+    {
+      "english": "You're a star, seriously.",
+      "Vietnamese": "Bạn là ngôi sao, thật.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731566"
+    },
+    {
+      "english": "I truly appreciate, this.",
+      "Vietnamese": "Tôi thật sự, trân trọng.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731567"
+    },
+    {
+      "english": "What a relief, thank you.",
+      "Vietnamese": "Thật nhẹ nhõm, cảm ơn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731568"
+    },
+    {
+      "english": "You went above, and beyond.",
+      "Vietnamese": "Bạn đã làm, hơn cả mong đợi.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731569"
+    },
+    {
+      "english": "This kindness, is unforgettable.",
+      "Vietnamese": "Lòng tốt này, khó quên.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731570"
+    },
+    {
+      "english": "You're the best, thank you.",
+      "Vietnamese": "Bạn là nhất, cảm ơn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731570"
+    },
+    {
+      "english": "I'm so thankful, today.",
+      "Vietnamese": "Tôi thật cảm kích, hôm nay.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731571"
+    },
+    {
+      "english": "You made, my day.",
+      "Vietnamese": "Bạn đã làm, ngày tôi vui.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731572"
+    },
+    {
+      "english": "This gesture, is so kind.",
+      "Vietnamese": "Hành động này, thật tốt.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731573"
+    },
+    {
+      "english": "My deepest thanks, to you.",
+      "Vietnamese": "Tôi xin cảm ơn, sâu sắc.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731574"
+    },
+    {
+      "english": "You're a true friend, indeed.",
+      "Vietnamese": "Bạn là bạn tốt, thật sự.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731574"
+    },
+    {
+      "english": "I'm blessed, by your help.",
+      "Vietnamese": "Tôi may mắn, nhờ bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731575"
+    },
+    {
+      "english": "Thank you, for being there.",
+      "Vietnamese": "Cảm ơn, vì đã có mặt.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731576"
+    },
+    {
+      "english": "You're a gem, honestly.",
+      "Vietnamese": "Bạn là báu vật, đó.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731577"
+    },
+    {
+      "english": "I can't thank, you enough, really.",
+      "Vietnamese": "Tôi cảm ơn, bạn không xuể.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731577"
+    },
+    {
+      "english": "This is, incredibly generous.",
+      "Vietnamese": "Thật là, rộng lượng.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731578"
+    },
+    {
+      "english": "You have my, sincere thanks.",
+      "Vietnamese": "Tôi chân thành, cảm ơn bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731579"
+    },
+    {
+      "english": "You're an angel, truly.",
+      "Vietnamese": "Bạn là thiên thần, quá.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731580"
+    },
+    {
+      "english": "I'm so appreciative, of this.",
+      "Vietnamese": "Tôi rất cảm kích, điều này.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731581"
+    },
+    {
+      "english": "Thank you, from my heart.",
+      "Vietnamese": "Cảm ơn, từ đáy lòng.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731581"
+    },
+    {
+      "english": "You're a lifesaver, really.",
+      "Vietnamese": "Bạn đúng là, cứu tinh.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731582"
+    },
+    {
+      "english": "This means, the world.",
+      "Vietnamese": "Điều này, có ý nghĩa lớn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731584"
+    },
+    {
+      "english": "I'm so thankful, for your help.",
+      "Vietnamese": "Tôi rất biết ơn, sự giúp đỡ của bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731584"
+    },
+    {
+      "english": "Thank you, for your help.",
+      "Vietnamese": "Cảm ơn, bạn đã giúp.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731586"
+    },
+    {
+      "english": "I appreciate, this gift.",
+      "Vietnamese": "Tôi trân trọng, món quà này.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731587"
+    },
+    {
+      "english": "So kind, of you.",
+      "Vietnamese": "Bạn thật tốt.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731588"
+    },
+    {
+      "english": "This means, a lot.",
+      "Vietnamese": "Điều này, có ý nghĩa.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731589"
+    },
+    {
+      "english": "Thanks for, everything.",
+      "Vietnamese": "Cảm ơn, vì tất cả.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731590"
+    },
+    {
+      "english": "I'm grateful, truly.",
+      "Vietnamese": "Tôi biết ơn, thật lòng.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731590"
+    },
+    {
+      "english": "You're a lifesaver, thank you.",
+      "Vietnamese": "Bạn cứu tôi rồi, cảm ơn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731591"
+    },
+    {
+      "english": "Such a, thoughtful gesture.",
+      "Vietnamese": "Hành động, thật chu đáo.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731592"
+    },
+    {
+      "english": "Thanks for, being there.",
+      "Vietnamese": "Cảm ơn, vì đã ở đó.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731593"
+    },
+    {
+      "english": "I owe you, one.",
+      "Vietnamese": "Tôi nợ bạn, một ân tình.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731594"
+    },
+    {
+      "english": "This is, very generous.",
+      "Vietnamese": "Thật là, rộng lượng.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731595"
+    },
+    {
+      "english": "My thanks, go out.",
+      "Vietnamese": "Lời cảm ơn, của tôi.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731596"
+    },
+    {
+      "english": "What a, wonderful surprise.",
+      "Vietnamese": "Thật là, bất ngờ thú vị.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731597"
+    },
+    {
+      "english": "I really, appreciate it.",
+      "Vietnamese": "Tôi thực sự, cảm kích.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731598"
+    },
+    {
+      "english": "Thank you, for your time.",
+      "Vietnamese": "Cảm ơn, thời gian của bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731599"
+    },
+    {
+      "english": "You made, my day.",
+      "Vietnamese": "Bạn làm, ngày tôi vui.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731599"
+    },
+    {
+      "english": "Grateful for, this opportunity.",
+      "Vietnamese": "Biết ơn, cơ hội này.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731600"
+    },
+    {
+      "english": "Such a, thoughtful person.",
+      "Vietnamese": "Bạn thật, chu đáo.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731601"
+    },
+    {
+      "english": "I'm so, thankful.",
+      "Vietnamese": "Tôi thật, biết ơn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731602"
+    },
+    {
+      "english": "Thanks for, the advice.",
+      "Vietnamese": "Cảm ơn, lời khuyên.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731603"
+    },
+    {
+      "english": "This gesture, is lovely.",
+      "Vietnamese": "Hành động này, thật đáng yêu.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731604"
+    },
+    {
+      "english": "Forever grateful, to you.",
+      "Vietnamese": "Mãi biết ơn, bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731605"
+    },
+    {
+      "english": "Thank you, sincerely.",
+      "Vietnamese": "Chân thành, cảm ơn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731605"
+    },
+    {
+      "english": "Your kindness, is noted.",
+      "Vietnamese": "Sự tốt bụng, bạn ghi nhận.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731606"
+    },
+    {
+      "english": "I value, your support.",
+      "Vietnamese": "Tôi quý, sự ủng hộ.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731607"
+    },
+    {
+      "english": "So much, gratitude.",
+      "Vietnamese": "Biết ơn, nhiều lắm.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731608"
+    },
+    {
+      "english": "Thanks for, the support.",
+      "Vietnamese": "Cảm ơn, sự hỗ trợ.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731609"
+    },
+    {
+      "english": "You're amazing, thank you.",
+      "Vietnamese": "Bạn tuyệt vời, cảm ơn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731610"
+    },
+    {
+      "english": "This is, so helpful.",
+      "Vietnamese": "Thật là, hữu ích.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731610"
+    },
+    {
+      "english": "My heartfelt, thanks.",
+      "Vietnamese": "Lời cảm ơn, sâu sắc.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731611"
+    },
+    {
+      "english": "Grateful for, your presence.",
+      "Vietnamese": "Biết ơn, vì bạn có mặt.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731612"
+    },
+    {
+      "english": "Thank you, for sharing.",
+      "Vietnamese": "Cảm ơn, bạn đã chia sẻ.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731613"
+    },
+    {
+      "english": "I feel, so lucky.",
+      "Vietnamese": "Tôi thấy, thật may mắn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731614"
+    },
+    {
+      "english": "This is, a blessing.",
+      "Vietnamese": "Đây là, một phước lành.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731615"
+    },
+    {
+      "english": "Thanks for, the kindness.",
+      "Vietnamese": "Cảm ơn, sự tử tế.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731615"
+    },
+    {
+      "english": "You've been, so helpful.",
+      "Vietnamese": "Bạn đã, rất giúp ích.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731616"
+    },
+    {
+      "english": "I appreciate, your effort.",
+      "Vietnamese": "Tôi trân trọng, nỗ lực.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731617"
+    },
+    {
+      "english": "What a, kind soul.",
+      "Vietnamese": "Bạn thật, là người tốt.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731618"
+    },
+    {
+      "english": "Thanks for, this lesson.",
+      "Vietnamese": "Cảm ơn, bài học này.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731619"
+    },
+    {
+      "english": "Forever thankful, for you.",
+      "Vietnamese": "Mãi biết ơn, bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731620"
+    },
+    {
+      "english": "Thank you, for your help.",
+      "Vietnamese": "Cảm ơn, bạn đã giúp.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731620"
+    },
+    {
+      "english": "I appreciate, this gift.",
+      "Vietnamese": "Tôi trân trọng, món quà này.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731621"
+    },
+    {
+      "english": "So kind, of you.",
+      "Vietnamese": "Bạn thật tốt.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731622"
+    },
+    {
+      "english": "This means, a lot.",
+      "Vietnamese": "Điều này, có ý nghĩa.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731623"
+    },
+    {
+      "english": "Thanks for, everything.",
+      "Vietnamese": "Cảm ơn, vì tất cả.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731624"
+    },
+    {
+      "english": "I'm grateful, truly.",
+      "Vietnamese": "Tôi biết ơn, thật lòng.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731624"
+    },
+    {
+      "english": "You're a lifesaver, thank you.",
+      "Vietnamese": "Bạn cứu tôi rồi, cảm ơn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731625"
+    },
+    {
+      "english": "Such a, thoughtful gesture.",
+      "Vietnamese": "Hành động, thật chu đáo.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731626"
+    },
+    {
+      "english": "Thanks for, being there.",
+      "Vietnamese": "Cảm ơn, vì đã ở đó.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731627"
+    },
+    {
+      "english": "I owe you, one.",
+      "Vietnamese": "Tôi nợ bạn, một ân tình.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731628"
+    },
+    {
+      "english": "This is, very generous.",
+      "Vietnamese": "Thật là, rộng lượng.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731628"
+    },
+    {
+      "english": "My thanks, go out.",
+      "Vietnamese": "Lời cảm ơn, của tôi.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731629"
+    },
+    {
+      "english": "What a, wonderful surprise.",
+      "Vietnamese": "Thật là, bất ngờ thú vị.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731630"
+    },
+    {
+      "english": "I really, appreciate it.",
+      "Vietnamese": "Tôi thực sự, cảm kích.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731632"
+    },
+    {
+      "english": "Thank you, for your time.",
+      "Vietnamese": "Cảm ơn, thời gian của bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731633"
+    },
+    {
+      "english": "You made, my day.",
+      "Vietnamese": "Bạn làm, ngày tôi vui.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731634"
+    },
+    {
+      "english": "Grateful for, this opportunity.",
+      "Vietnamese": "Biết ơn, cơ hội này.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731635"
+    },
+    {
+      "english": "Such a, thoughtful person.",
+      "Vietnamese": "Bạn thật, chu đáo.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731636"
+    },
+    {
+      "english": "I'm so, thankful.",
+      "Vietnamese": "Tôi thật, biết ơn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731637"
+    },
+    {
+      "english": "Thanks for, the advice.",
+      "Vietnamese": "Cảm ơn, lời khuyên.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731639"
+    },
+    {
+      "english": "This gesture, is lovely.",
+      "Vietnamese": "Hành động này, thật đáng yêu.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731640"
+    },
+    {
+      "english": "Forever grateful, to you.",
+      "Vietnamese": "Mãi biết ơn, bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731641"
+    },
+    {
+      "english": "Thank you, sincerely.",
+      "Vietnamese": "Chân thành, cảm ơn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731642"
+    },
+    {
+      "english": "Your kindness, is noted.",
+      "Vietnamese": "Sự tốt bụng, bạn ghi nhận.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731643"
+    },
+    {
+      "english": "I value, your support.",
+      "Vietnamese": "Tôi quý, sự ủng hộ.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731643"
+    },
+    {
+      "english": "So much, gratitude.",
+      "Vietnamese": "Biết ơn, nhiều lắm.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731644"
+    },
+    {
+      "english": "Thanks for, the support.",
+      "Vietnamese": "Cảm ơn, sự hỗ trợ.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731645"
+    },
+    {
+      "english": "You're amazing, thank you.",
+      "Vietnamese": "Bạn tuyệt vời, cảm ơn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731646"
+    },
+    {
+      "english": "This is, so helpful.",
+      "Vietnamese": "Thật là, hữu ích.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731646"
+    },
+    {
+      "english": "My heartfelt, thanks.",
+      "Vietnamese": "Lời cảm ơn, sâu sắc.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731647"
+    },
+    {
+      "english": "Grateful for, your presence.",
+      "Vietnamese": "Biết ơn, vì bạn có mặt.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731648"
+    },
+    {
+      "english": "Thank you, for sharing.",
+      "Vietnamese": "Cảm ơn, bạn đã chia sẻ.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731649"
+    },
+    {
+      "english": "I feel, so lucky.",
+      "Vietnamese": "Tôi thấy, thật may mắn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731650"
+    },
+    {
+      "english": "This is, a blessing.",
+      "Vietnamese": "Đây là, một phước lành.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731650"
+    },
+    {
+      "english": "Thanks for, the kindness.",
+      "Vietnamese": "Cảm ơn, sự tử tế.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731651"
+    },
+    {
+      "english": "You've been, so helpful.",
+      "Vietnamese": "Bạn đã, rất giúp ích.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731652"
+    },
+    {
+      "english": "I appreciate, your effort.",
+      "Vietnamese": "Tôi trân trọng, nỗ lực.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731653"
+    },
+    {
+      "english": "What a, kind soul.",
+      "Vietnamese": "Bạn thật, là người tốt.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731654"
+    },
+    {
+      "english": "Thanks for, this lesson.",
+      "Vietnamese": "Cảm ơn, bài học này.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731654"
+    },
+    {
+      "english": "Forever thankful, for you.",
+      "Vietnamese": "Mãi biết ơn, bạn.",
+      "category": "Lòng biết ơne",
+      "generated_at": "2026-07-17T03:54:24.731655"
     }
   ],
-  "last_updated": "2026-07-16T03:54:41.844745"
+  "last_updated": "2026-07-17T03:54:24.731656"
 }
