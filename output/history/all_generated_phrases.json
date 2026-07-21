@@ -5057,7 +5057,727 @@
       "Vietnamese": "Tò mò, khám phá.",
       "category": "Success",
       "generated_at": "2026-07-20T04:29:26.944737"
+    },
+    {
+      "english": "Learn slowly, grow surely.",
+      "Vietnamese": "Học chậm, lớn chắc.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772355"
+    },
+    {
+      "english": "Move often, feel better.",
+      "Vietnamese": "Di chuyển nhiều, khỏe hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772365"
+    },
+    {
+      "english": "Read a page, learn a word.",
+      "Vietnamese": "Đọc một trang, biết một từ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772367"
+    },
+    {
+      "english": "Look around, see details.",
+      "Vietnamese": "Nhìn xung quanh, xem chi tiết.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772368"
+    },
+    {
+      "english": "Breathe deep, calm down.",
+      "Vietnamese": "Thở sâu, bình tĩnh lại.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772370"
+    },
+    {
+      "english": "Eat mindfully, taste more.",
+      "Vietnamese": "Ăn có ý thức, ngon hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772371"
+    },
+    {
+      "english": "Stand tall, feel strong.",
+      "Vietnamese": "Đứng thẳng, thấy mạnh mẽ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772372"
+    },
+    {
+      "english": "Walk a bit, explore more.",
+      "Vietnamese": "Đi dạo chút, khám phá thêm.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772375"
+    },
+    {
+      "english": "Think twice, speak once.",
+      "Vietnamese": "Nghĩ hai lần, nói một.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772377"
+    },
+    {
+      "english": "Open your mind, grow it.",
+      "Vietnamese": "Mở rộng tâm trí, phát triển.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772379"
+    },
+    {
+      "english": "Help others, feel good.",
+      "Vietnamese": "Giúp người khác, vui vẻ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772380"
+    },
+    {
+      "english": "Rest well, be ready.",
+      "Vietnamese": "Nghỉ ngơi tốt, sẵn sàng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772382"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "Vietnamese": "Tiếp tục đi, đừng dừng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772383"
+    },
+    {
+      "english": "See the light, find hope.",
+      "Vietnamese": "Thấy ánh sáng, tìm hy vọng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772384"
+    },
+    {
+      "english": "Try again, it's okay.",
+      "Vietnamese": "Thử lại đi, không sao.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772386"
+    },
+    {
+      "english": "Be patient, wait for it.",
+      "Vietnamese": "Kiên nhẫn, chờ đợi.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772387"
+    },
+    {
+      "english": "Share a smile, brighten days.",
+      "Vietnamese": "Chia sẻ nụ cười, làm tươi sáng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772388"
+    },
+    {
+      "english": "Observe closely, learn deeply.",
+      "Vietnamese": "Quan sát kỹ, học sâu.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772390"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "Vietnamese": "Uống nước, đủ nước.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772392"
+    },
+    {
+      "english": "Stretch out, relax muscles.",
+      "Vietnamese": "Duỗi ra, thư giãn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772393"
+    },
+    {
+      "english": "Fix mistakes, get better.",
+      "Vietnamese": "Sửa lỗi, tốt hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772395"
+    },
+    {
+      "english": "Feel the breeze, enjoy it.",
+      "Vietnamese": "Cảm nhận gió, thích thú.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772396"
+    },
+    {
+      "english": "Plan ahead, be prepared.",
+      "Vietnamese": "Lên kế hoạch, chuẩn bị.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772397"
+    },
+    {
+      "english": "Sing a song, feel happy.",
+      "Vietnamese": "Hát bài hát, vui vẻ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772398"
+    },
+    {
+      "english": "Tell a story, share life.",
+      "Vietnamese": "Kể chuyện, chia sẻ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772399"
+    },
+    {
+      "english": "Look up, see the sky.",
+      "Vietnamese": "Nhìn lên, xem trời.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772400"
+    },
+    {
+      "english": "Walk barefoot, feel ground.",
+      "Vietnamese": "Đi chân trần, cảm đất.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772401"
+    },
+    {
+      "english": "Ask 'why', understand it.",
+      "Vietnamese": "Hỏi 'tại sao', hiểu rõ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772402"
+    },
+    {
+      "english": "Laugh loud, feel freedom.",
+      "Vietnamese": "Cười lớn, thấy tự do.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772403"
+    },
+    {
+      "english": "Slow down, enjoy now.",
+      "Vietnamese": "Chậm lại, hưởng thụ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772404"
+    },
+    {
+      "english": "Try a new dish, taste it.",
+      "Vietnamese": "Thử món mới, nếm thử.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772405"
+    },
+    {
+      "english": "Paint a picture, express art.",
+      "Vietnamese": "Vẽ tranh, bày tỏ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772406"
+    },
+    {
+      "english": "Grow a plant, watch it.",
+      "Vietnamese": "Trồng cây, ngắm nhìn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772407"
+    },
+    {
+      "english": "Dance a little, feel joy.",
+      "Vietnamese": "Nhảy múa chút, vui sướng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772409"
+    },
+    {
+      "english": "Find balance, stay centered.",
+      "Vietnamese": "Tìm cân bằng, giữ tâm.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772410"
+    },
+    {
+      "english": "Be present, live now.",
+      "Vietnamese": "Hiện diện, sống bây giờ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772411"
+    },
+    {
+      "english": "Write a poem, feel words.",
+      "Vietnamese": "Viết thơ, cảm xúc.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772412"
+    },
+    {
+      "english": "Sit quietly, reflect more.",
+      "Vietnamese": "Ngồi yên, suy ngẫm.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772413"
+    },
+    {
+      "english": "Learn slowly, grow surely.",
+      "Vietnamese": "Học chậm, lớn chắc.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772414"
+    },
+    {
+      "english": "Move often, feel better.",
+      "Vietnamese": "Di chuyển nhiều, khỏe hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772415"
+    },
+    {
+      "english": "Read a page, learn a word.",
+      "Vietnamese": "Đọc một trang, biết một từ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772416"
+    },
+    {
+      "english": "Look around, see details.",
+      "Vietnamese": "Nhìn xung quanh, xem chi tiết.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772418"
+    },
+    {
+      "english": "Breathe deep, calm down.",
+      "Vietnamese": "Thở sâu, bình tĩnh lại.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772419"
+    },
+    {
+      "english": "Eat mindfully, taste more.",
+      "Vietnamese": "Ăn có ý thức, ngon hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772420"
+    },
+    {
+      "english": "Stand tall, feel strong.",
+      "Vietnamese": "Đứng thẳng, thấy mạnh mẽ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772421"
+    },
+    {
+      "english": "Walk a bit, explore more.",
+      "Vietnamese": "Đi dạo chút, khám phá thêm.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772422"
+    },
+    {
+      "english": "Think twice, speak once.",
+      "Vietnamese": "Nghĩ hai lần, nói một.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772424"
+    },
+    {
+      "english": "Open your mind, grow it.",
+      "Vietnamese": "Mở rộng tâm trí, phát triển.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772425"
+    },
+    {
+      "english": "Help others, feel good.",
+      "Vietnamese": "Giúp người khác, vui vẻ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772426"
+    },
+    {
+      "english": "Rest well, be ready.",
+      "Vietnamese": "Nghỉ ngơi tốt, sẵn sàng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772427"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "Vietnamese": "Tiếp tục đi, đừng dừng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772428"
+    },
+    {
+      "english": "See the light, find hope.",
+      "Vietnamese": "Thấy ánh sáng, tìm hy vọng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772429"
+    },
+    {
+      "english": "Try again, it's okay.",
+      "Vietnamese": "Thử lại đi, không sao.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772430"
+    },
+    {
+      "english": "Be patient, wait for it.",
+      "Vietnamese": "Kiên nhẫn, chờ đợi.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772432"
+    },
+    {
+      "english": "Share a smile, brighten days.",
+      "Vietnamese": "Chia sẻ nụ cười, làm tươi sáng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772433"
+    },
+    {
+      "english": "Observe closely, learn deeply.",
+      "Vietnamese": "Quan sát kỹ, học sâu.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772434"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "Vietnamese": "Uống nước, đủ nước.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772435"
+    },
+    {
+      "english": "Stretch out, relax muscles.",
+      "Vietnamese": "Duỗi ra, thư giãn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772436"
+    },
+    {
+      "english": "Fix mistakes, get better.",
+      "Vietnamese": "Sửa lỗi, tốt hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772437"
+    },
+    {
+      "english": "Feel the breeze, enjoy it.",
+      "Vietnamese": "Cảm nhận gió, thích thú.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772438"
+    },
+    {
+      "english": "Plan ahead, be prepared.",
+      "Vietnamese": "Lên kế hoạch, chuẩn bị.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772439"
+    },
+    {
+      "english": "Sing a song, feel happy.",
+      "Vietnamese": "Hát bài hát, vui vẻ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772441"
+    },
+    {
+      "english": "Tell a story, share life.",
+      "Vietnamese": "Kể chuyện, chia sẻ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772442"
+    },
+    {
+      "english": "Look up, see the sky.",
+      "Vietnamese": "Nhìn lên, xem trời.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772443"
+    },
+    {
+      "english": "Walk barefoot, feel ground.",
+      "Vietnamese": "Đi chân trần, cảm đất.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772444"
+    },
+    {
+      "english": "Ask 'why', understand it.",
+      "Vietnamese": "Hỏi 'tại sao', hiểu rõ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772445"
+    },
+    {
+      "english": "Laugh loud, feel freedom.",
+      "Vietnamese": "Cười lớn, thấy tự do.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772446"
+    },
+    {
+      "english": "Slow down, enjoy now.",
+      "Vietnamese": "Chậm lại, hưởng thụ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772447"
+    },
+    {
+      "english": "Try a new dish, taste it.",
+      "Vietnamese": "Thử món mới, nếm thử.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772448"
+    },
+    {
+      "english": "Paint a picture, express art.",
+      "Vietnamese": "Vẽ tranh, bày tỏ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772450"
+    },
+    {
+      "english": "Grow a plant, watch it.",
+      "Vietnamese": "Trồng cây, ngắm nhìn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772451"
+    },
+    {
+      "english": "Dance a little, feel joy.",
+      "Vietnamese": "Nhảy múa chút, vui sướng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772452"
+    },
+    {
+      "english": "Find balance, stay centered.",
+      "Vietnamese": "Tìm cân bằng, giữ tâm.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772453"
+    },
+    {
+      "english": "Be present, live now.",
+      "Vietnamese": "Hiện diện, sống bây giờ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772457"
+    },
+    {
+      "english": "Write a poem, feel words.",
+      "Vietnamese": "Viết thơ, cảm xúc.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772458"
+    },
+    {
+      "english": "Sit quietly, reflect more.",
+      "Vietnamese": "Ngồi yên, suy ngẫm.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772460"
+    },
+    {
+      "english": "Learn slowly, grow surely.",
+      "Vietnamese": "Học chậm, lớn chắc.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772461"
+    },
+    {
+      "english": "Move often, feel better.",
+      "Vietnamese": "Di chuyển nhiều, khỏe hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772462"
+    },
+    {
+      "english": "Read a page, learn a word.",
+      "Vietnamese": "Đọc một trang, biết một từ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772463"
+    },
+    {
+      "english": "Look around, see details.",
+      "Vietnamese": "Nhìn xung quanh, xem chi tiết.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772464"
+    },
+    {
+      "english": "Breathe deep, calm down.",
+      "Vietnamese": "Thở sâu, bình tĩnh lại.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772465"
+    },
+    {
+      "english": "Eat mindfully, taste more.",
+      "Vietnamese": "Ăn có ý thức, ngon hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772466"
+    },
+    {
+      "english": "Stand tall, feel strong.",
+      "Vietnamese": "Đứng thẳng, thấy mạnh mẽ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772467"
+    },
+    {
+      "english": "Walk a bit, explore more.",
+      "Vietnamese": "Đi dạo chút, khám phá thêm.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772469"
+    },
+    {
+      "english": "Think twice, speak once.",
+      "Vietnamese": "Nghĩ hai lần, nói một.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772470"
+    },
+    {
+      "english": "Open your mind, grow it.",
+      "Vietnamese": "Mở rộng tâm trí, phát triển.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772471"
+    },
+    {
+      "english": "Help others, feel good.",
+      "Vietnamese": "Giúp người khác, vui vẻ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772472"
+    },
+    {
+      "english": "Rest well, be ready.",
+      "Vietnamese": "Nghỉ ngơi tốt, sẵn sàng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772473"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "Vietnamese": "Tiếp tục đi, đừng dừng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772474"
+    },
+    {
+      "english": "See the light, find hope.",
+      "Vietnamese": "Thấy ánh sáng, tìm hy vọng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772475"
+    },
+    {
+      "english": "Try again, it's okay.",
+      "Vietnamese": "Thử lại đi, không sao.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772476"
+    },
+    {
+      "english": "Be patient, wait for it.",
+      "Vietnamese": "Kiên nhẫn, chờ đợi.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772478"
+    },
+    {
+      "english": "Share a smile, brighten days.",
+      "Vietnamese": "Chia sẻ nụ cười, làm tươi sáng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772479"
+    },
+    {
+      "english": "Observe closely, learn deeply.",
+      "Vietnamese": "Quan sát kỹ, học sâu.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772480"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "Vietnamese": "Uống nước, đủ nước.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772481"
+    },
+    {
+      "english": "Stretch out, relax muscles.",
+      "Vietnamese": "Duỗi ra, thư giãn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772482"
+    },
+    {
+      "english": "Fix mistakes, get better.",
+      "Vietnamese": "Sửa lỗi, tốt hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772483"
+    },
+    {
+      "english": "Feel the breeze, enjoy it.",
+      "Vietnamese": "Cảm nhận gió, thích thú.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772484"
+    },
+    {
+      "english": "Plan ahead, be prepared.",
+      "Vietnamese": "Lên kế hoạch, chuẩn bị.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772485"
+    },
+    {
+      "english": "Sing a song, feel happy.",
+      "Vietnamese": "Hát bài hát, vui vẻ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772486"
+    },
+    {
+      "english": "Tell a story, share life.",
+      "Vietnamese": "Kể chuyện, chia sẻ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772487"
+    },
+    {
+      "english": "Look up, see the sky.",
+      "Vietnamese": "Nhìn lên, xem trời.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772488"
+    },
+    {
+      "english": "Walk barefoot, feel ground.",
+      "Vietnamese": "Đi chân trần, cảm đất.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772489"
+    },
+    {
+      "english": "Ask 'why', understand it.",
+      "Vietnamese": "Hỏi 'tại sao', hiểu rõ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772491"
+    },
+    {
+      "english": "Laugh loud, feel freedom.",
+      "Vietnamese": "Cười lớn, thấy tự do.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772493"
+    },
+    {
+      "english": "Slow down, enjoy now.",
+      "Vietnamese": "Chậm lại, hưởng thụ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772495"
+    },
+    {
+      "english": "Try a new dish, taste it.",
+      "Vietnamese": "Thử món mới, nếm thử.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772496"
+    },
+    {
+      "english": "Paint a picture, express art.",
+      "Vietnamese": "Vẽ tranh, bày tỏ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772497"
+    },
+    {
+      "english": "Grow a plant, watch it.",
+      "Vietnamese": "Trồng cây, ngắm nhìn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772498"
+    },
+    {
+      "english": "Dance a little, feel joy.",
+      "Vietnamese": "Nhảy múa chút, vui sướng.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772499"
+    },
+    {
+      "english": "Find balance, stay centered.",
+      "Vietnamese": "Tìm cân bằng, giữ tâm.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772500"
+    },
+    {
+      "english": "Be present, live now.",
+      "Vietnamese": "Hiện diện, sống bây giờ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772501"
+    },
+    {
+      "english": "Write a poem, feel words.",
+      "Vietnamese": "Viết thơ, cảm xúc.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772502"
+    },
+    {
+      "english": "Sit quietly, reflect more.",
+      "Vietnamese": "Ngồi yên, suy ngẫm.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772512"
+    },
+    {
+      "english": "Learn slowly, grow surely.",
+      "Vietnamese": "Học chậm, lớn chắc.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772513"
+    },
+    {
+      "english": "Move often, feel better.",
+      "Vietnamese": "Di chuyển nhiều, khỏe hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772514"
+    },
+    {
+      "english": "Read a page, learn a word.",
+      "Vietnamese": "Đọc một trang, biết một từ.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772515"
+    },
+    {
+      "english": "Look around, see details.",
+      "Vietnamese": "Nhìn xung quanh, xem chi tiết.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772516"
+    },
+    {
+      "english": "Breathe deep, calm down.",
+      "Vietnamese": "Thở sâu, bình tĩnh lại.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772517"
+    },
+    {
+      "english": "Eat mindfully, taste more.",
+      "Vietnamese": "Ăn có ý thức, ngon hơn.",
+      "category": "Balance",
+      "generated_at": "2026-07-21T04:09:18.772519"
     }
   ],
-  "last_updated": "2026-07-20T04:29:26.944739"
+  "last_updated": "2026-07-21T04:09:18.772520"
 }
