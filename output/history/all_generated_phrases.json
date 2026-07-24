@@ -7217,7 +7217,727 @@
       "Vietnamese": "Hôm nay em tỏa sáng.",
       "category": "Confidence",
       "generated_at": "2026-07-24T01:18:20.952007"
+    },
+    {
+      "english": "Say it louder, please.",
+      "Vietnamese": "Nói to hơn, làm ơn.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517192"
+    },
+    {
+      "english": "Try again, slowly.",
+      "Vietnamese": "Thử lại, chậm thôi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517204"
+    },
+    {
+      "english": "Don't worry, it's okay.",
+      "Vietnamese": "Đừng lo, không sao đâu.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517206"
+    },
+    {
+      "english": "What did you mean?",
+      "Vietnamese": "Ý bạn là gì?",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517207"
+    },
+    {
+      "english": "Can you repeat that?",
+      "Vietnamese": "Bạn có thể lặp lại không?",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517208"
+    },
+    {
+      "english": "Let's focus here.",
+      "Vietnamese": "Chúng ta tập trung vào đây.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517210"
+    },
+    {
+      "english": "Think about it.",
+      "Vietnamese": "Hãy nghĩ về nó.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517211"
+    },
+    {
+      "english": "That's almost right.",
+      "Vietnamese": "Gần đúng rồi đó.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517214"
+    },
+    {
+      "english": "Start with this.",
+      "Vietnamese": "Bắt đầu với cái này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517216"
+    },
+    {
+      "english": "Listen carefully.",
+      "Vietnamese": "Nghe cẩn thận nhé.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517217"
+    },
+    {
+      "english": "You're getting warmer.",
+      "Vietnamese": "Bạn đang tiến gần hơn.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517218"
+    },
+    {
+      "english": "It's this word.",
+      "Vietnamese": "Là từ này nè.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517220"
+    },
+    {
+      "english": "Say it like this.",
+      "Vietnamese": "Nói như thế này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517221"
+    },
+    {
+      "english": "Try a different word.",
+      "Vietnamese": "Thử một từ khác.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517222"
+    },
+    {
+      "english": "Focus on the tone.",
+      "Vietnamese": "Tập trung vào giọng điệu.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517223"
+    },
+    {
+      "english": "You're very close.",
+      "Vietnamese": "Bạn rất gần rồi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517224"
+    },
+    {
+      "english": "That sounds right.",
+      "Vietnamese": "Nghe có vẻ đúng.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517225"
+    },
+    {
+      "english": "Let's practice more.",
+      "Vietnamese": "Chúng ta luyện tập thêm.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517226"
+    },
+    {
+      "english": "What's the meaning?",
+      "Vietnamese": "Nghĩa là gì?",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517227"
+    },
+    {
+      "english": "Use this phrase.",
+      "Vietnamese": "Dùng cụm từ này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517228"
+    },
+    {
+      "english": "You got it!",
+      "Vietnamese": "Bạn làm được rồi!",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517229"
+    },
+    {
+      "english": "Let's try a question.",
+      "Vietnamese": "Hãy thử một câu hỏi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517230"
+    },
+    {
+      "english": "Think about the context.",
+      "Vietnamese": "Nghĩ về ngữ cảnh.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517231"
+    },
+    {
+      "english": "It's a little off.",
+      "Vietnamese": "Hơi sai một chút.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517232"
+    },
+    {
+      "english": "You're doing good.",
+      "Vietnamese": "Bạn đang làm tốt.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517233"
+    },
+    {
+      "english": "Can you explain?",
+      "Vietnamese": "Bạn có thể giải thích?",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517233"
+    },
+    {
+      "english": "Let's build on this.",
+      "Vietnamese": "Chúng ta cùng xây dựng.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517234"
+    },
+    {
+      "english": "What's the verb?",
+      "Vietnamese": "Động từ là gì?",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517235"
+    },
+    {
+      "english": "Try a stronger word.",
+      "Vietnamese": "Thử một từ mạnh hơn.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517236"
+    },
+    {
+      "english": "You're almost there.",
+      "Vietnamese": "Bạn gần tới đích rồi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517237"
+    },
+    {
+      "english": "Say it with feeling.",
+      "Vietnamese": "Nói bằng cảm xúc.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517238"
+    },
+    {
+      "english": "Think about your accent.",
+      "Vietnamese": "Nghĩ về giọng điệu của bạn.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517238"
+    },
+    {
+      "english": "It's close, so close.",
+      "Vietnamese": "Gần lắm, rất gần rồi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517239"
+    },
+    {
+      "english": "You get the idea.",
+      "Vietnamese": "Bạn đã hiểu ý rồi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517240"
+    },
+    {
+      "english": "Let's try a new phrase.",
+      "Vietnamese": "Hãy thử một cụm mới.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517241"
+    },
+    {
+      "english": "What's the noun then?",
+      "Vietnamese": "Vậy danh từ là gì?",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517242"
+    },
+    {
+      "english": "You're on the right track.",
+      "Vietnamese": "Bạn đang đi đúng hướng.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517243"
+    },
+    {
+      "english": "Try saying this.",
+      "Vietnamese": "Thử nói cái này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517244"
+    },
+    {
+      "english": "It's getting better.",
+      "Vietnamese": "Nó đang tốt hơn.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517245"
+    },
+    {
+      "english": "Can you write it?",
+      "Vietnamese": "Bạn có thể viết nó?",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517246"
+    },
+    {
+      "english": "Not 'this', use 'that'.",
+      "Vietnamese": "Không 'này', dùng 'kia'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517247"
+    },
+    {
+      "english": "Past tense, not future.",
+      "Vietnamese": "Quá khứ, không tương lai.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517248"
+    },
+    {
+      "english": "Different word, for 'eat'.",
+      "Vietnamese": "Khác từ, để 'ăn'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517250"
+    },
+    {
+      "english": "More polite, try this.",
+      "Vietnamese": "Lịch sự hơn, thử cái này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517251"
+    },
+    {
+      "english": "Focus on the noun.",
+      "Vietnamese": "Tập trung danh từ.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517252"
+    },
+    {
+      "english": "Adjective comes after.",
+      "Vietnamese": "Tính từ đứng sau.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517255"
+    },
+    {
+      "english": "Singular, not plural.",
+      "Vietnamese": "Số ít, không số nhiều.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517256"
+    },
+    {
+      "english": "Question, add this particle.",
+      "Vietnamese": "Câu hỏi, thêm trợ từ này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517257"
+    },
+    {
+      "english": "Action verb, not state.",
+      "Vietnamese": "Động từ hành động, không trạng thái.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517258"
+    },
+    {
+      "english": "That's for 'here'.",
+      "Vietnamese": "Đó là cho 'ở đây'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517259"
+    },
+    {
+      "english": "Not 'big', say 'long'.",
+      "Vietnamese": "Không 'lớn', nói 'dài'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517260"
+    },
+    {
+      "english": "This describes the person.",
+      "Vietnamese": "Cái này miêu tả người.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517261"
+    },
+    {
+      "english": "Means 'because', not 'so'.",
+      "Vietnamese": "Nghĩa là 'bởi vì', không 'nên'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517262"
+    },
+    {
+      "english": "Use 'when', not 'if'.",
+      "Vietnamese": "Dùng 'khi nào', không 'nếu'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517263"
+    },
+    {
+      "english": "Subject, then verb.",
+      "Vietnamese": "Chủ ngữ, rồi động từ.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517265"
+    },
+    {
+      "english": "Always use this classifier.",
+      "Vietnamese": "Luôn dùng loại từ này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517266"
+    },
+    {
+      "english": "That means 'many'.",
+      "Vietnamese": "Nó nghĩa là 'nhiều'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517267"
+    },
+    {
+      "english": "For 'one', it's different.",
+      "Vietnamese": "Cho 'một', nó khác.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517268"
+    },
+    {
+      "english": "This is more direct.",
+      "Vietnamese": "Cái này trực tiếp hơn.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517269"
+    },
+    {
+      "english": "Focus on the 'how'.",
+      "Vietnamese": "Tập trung vào 'cách nào'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517270"
+    },
+    {
+      "english": "Not 'he', use 'she'.",
+      "Vietnamese": "Không 'anh ấy', dùng 'cô ấy'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517271"
+    },
+    {
+      "english": "Past action, complete.",
+      "Vietnamese": "Hành động đã xong.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517272"
+    },
+    {
+      "english": "This means 'soon'.",
+      "Vietnamese": "Nó nghĩa là 'sắp tới'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517273"
+    },
+    {
+      "english": "Always end with this.",
+      "Vietnamese": "Luôn kết thúc bằng cái này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517274"
+    },
+    {
+      "english": "More formal address.",
+      "Vietnamese": "Cách xưng hô trang trọng hơn.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517275"
+    },
+    {
+      "english": "This is 'usually'.",
+      "Vietnamese": "Đây là 'thường xuyên'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517276"
+    },
+    {
+      "english": "Not 'mine', but 'yours'.",
+      "Vietnamese": "Không 'của tôi', mà 'của bạn'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517276"
+    },
+    {
+      "english": "That's 'difficult'.",
+      "Vietnamese": "Đó là 'khó khăn'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517277"
+    },
+    {
+      "english": "Focus on the 'where'.",
+      "Vietnamese": "Tập trung vào 'ở đâu'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517278"
+    },
+    {
+      "english": "This implies 'always'.",
+      "Vietnamese": "Cái này ngụ ý 'luôn luôn'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517279"
+    },
+    {
+      "english": "Not 'give', but 'receive'.",
+      "Vietnamese": "Không 'cho', mà 'nhận'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517280"
+    },
+    {
+      "english": "Past tense, was happening.",
+      "Vietnamese": "Quá khứ, đã đang diễn ra.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517281"
+    },
+    {
+      "english": "This means 'enough'.",
+      "Vietnamese": "Nó nghĩa là 'đủ'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517282"
+    },
+    {
+      "english": "Not 'slow', say 'fast'.",
+      "Vietnamese": "Không 'chậm', nói 'nhanh'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517283"
+    },
+    {
+      "english": "That's the correct word.",
+      "Vietnamese": "Đó là từ đúng.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517284"
+    },
+    {
+      "english": "Use 'every day'.",
+      "Vietnamese": "Dùng 'mỗi ngày'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517284"
+    },
+    {
+      "english": "Action is finished.",
+      "Vietnamese": "Hành động đã hoàn thành.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517286"
+    },
+    {
+      "english": "This describes 'color'.",
+      "Vietnamese": "Cái này miêu tả 'màu sắc'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517287"
+    },
+    {
+      "english": "Not 'cold', it's 'hot'.",
+      "Vietnamese": "Không 'lạnh', trời 'nóng'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517288"
+    },
+    {
+      "english": "Means 'later', not 'now'.",
+      "Vietnamese": "Nghĩa là 'sau', không 'bây giờ'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517289"
+    },
+    {
+      "english": "Not 'this', use 'that'.",
+      "Vietnamese": "Không 'này', dùng 'kia'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517290"
+    },
+    {
+      "english": "Past tense, not future.",
+      "Vietnamese": "Quá khứ, không tương lai.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517291"
+    },
+    {
+      "english": "Different word, for 'eat'.",
+      "Vietnamese": "Khác từ, để 'ăn'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517292"
+    },
+    {
+      "english": "More polite, try this.",
+      "Vietnamese": "Lịch sự hơn, thử cái này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517293"
+    },
+    {
+      "english": "Focus on the noun.",
+      "Vietnamese": "Tập trung danh từ.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517294"
+    },
+    {
+      "english": "Adjective comes after.",
+      "Vietnamese": "Tính từ đứng sau.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517295"
+    },
+    {
+      "english": "Singular, not plural.",
+      "Vietnamese": "Số ít, không số nhiều.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517296"
+    },
+    {
+      "english": "Question, add this particle.",
+      "Vietnamese": "Câu hỏi, thêm trợ từ này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517296"
+    },
+    {
+      "english": "Action verb, not state.",
+      "Vietnamese": "Động từ hành động, không trạng thái.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517297"
+    },
+    {
+      "english": "That's for 'here'.",
+      "Vietnamese": "Đó là cho 'ở đây'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517298"
+    },
+    {
+      "english": "Not 'big', say 'long'.",
+      "Vietnamese": "Không 'lớn', nói 'dài'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517299"
+    },
+    {
+      "english": "This describes the person.",
+      "Vietnamese": "Cái này miêu tả người.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517300"
+    },
+    {
+      "english": "Means 'because', not 'so'.",
+      "Vietnamese": "Nghĩa là 'bởi vì', không 'nên'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517301"
+    },
+    {
+      "english": "Use 'when', not 'if'.",
+      "Vietnamese": "Dùng 'khi nào', không 'nếu'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517302"
+    },
+    {
+      "english": "Subject, then verb.",
+      "Vietnamese": "Chủ ngữ, rồi động từ.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517302"
+    },
+    {
+      "english": "Always use this classifier.",
+      "Vietnamese": "Luôn dùng loại từ này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517303"
+    },
+    {
+      "english": "That means 'many'.",
+      "Vietnamese": "Nó nghĩa là 'nhiều'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517304"
+    },
+    {
+      "english": "For 'one', it's different.",
+      "Vietnamese": "Cho 'một', nó khác.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517305"
+    },
+    {
+      "english": "This is more direct.",
+      "Vietnamese": "Cái này trực tiếp hơn.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517306"
+    },
+    {
+      "english": "Focus on the 'how'.",
+      "Vietnamese": "Tập trung vào 'cách nào'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517307"
+    },
+    {
+      "english": "Not 'he', use 'she'.",
+      "Vietnamese": "Không 'anh ấy', dùng 'cô ấy'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517307"
+    },
+    {
+      "english": "Past action, complete.",
+      "Vietnamese": "Hành động đã xong.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517308"
+    },
+    {
+      "english": "This means 'soon'.",
+      "Vietnamese": "Nó nghĩa là 'sắp tới'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517309"
+    },
+    {
+      "english": "Always end with this.",
+      "Vietnamese": "Luôn kết thúc bằng cái này.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517310"
+    },
+    {
+      "english": "More formal address.",
+      "Vietnamese": "Cách xưng hô trang trọng hơn.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517311"
+    },
+    {
+      "english": "This is 'usually'.",
+      "Vietnamese": "Đây là 'thường xuyên'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517311"
+    },
+    {
+      "english": "Not 'mine', but 'yours'.",
+      "Vietnamese": "Không 'của tôi', mà 'của bạn'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517312"
+    },
+    {
+      "english": "That's 'difficult'.",
+      "Vietnamese": "Đó là 'khó khăn'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517313"
+    },
+    {
+      "english": "Focus on the 'where'.",
+      "Vietnamese": "Tập trung vào 'ở đâu'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517315"
+    },
+    {
+      "english": "This implies 'always'.",
+      "Vietnamese": "Cái này ngụ ý 'luôn luôn'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517316"
+    },
+    {
+      "english": "Not 'give', but 'receive'.",
+      "Vietnamese": "Không 'cho', mà 'nhận'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517317"
+    },
+    {
+      "english": "Past tense, was happening.",
+      "Vietnamese": "Quá khứ, đã đang diễn ra.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517317"
+    },
+    {
+      "english": "This means 'enough'.",
+      "Vietnamese": "Nó nghĩa là 'đủ'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517318"
+    },
+    {
+      "english": "Not 'slow', say 'fast'.",
+      "Vietnamese": "Không 'chậm', nói 'nhanh'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517319"
+    },
+    {
+      "english": "That's the correct word.",
+      "Vietnamese": "Đó là từ đúng.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517320"
+    },
+    {
+      "english": "Use 'every day'.",
+      "Vietnamese": "Dùng 'mỗi ngày'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517322"
+    },
+    {
+      "english": "Action is finished.",
+      "Vietnamese": "Hành động đã hoàn thành.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517323"
+    },
+    {
+      "english": "This describes 'color'.",
+      "Vietnamese": "Cái này miêu tả 'màu sắc'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517325"
+    },
+    {
+      "english": "Not 'cold', it's 'hot'.",
+      "Vietnamese": "Không 'lạnh', trời 'nóng'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517325"
+    },
+    {
+      "english": "Means 'later', not 'now'.",
+      "Vietnamese": "Nghĩa là 'sau', không 'bây giờ'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-24T04:00:27.517326"
     }
   ],
-  "last_updated": "2026-07-24T01:18:20.952009"
+  "last_updated": "2026-07-24T04:00:27.517328"
 }
