@@ -6497,7 +6497,727 @@
       "Vietnamese": "Hãy đối xử tốt với bản thân, luôn luôn.",
       "category": "Inner Peace",
       "generated_at": "2026-07-22T04:13:03.319742"
+    },
+    {
+      "english": "Let's learn Vietnamese, you and I.",
+      "Vietnamese": "Mình học tiếng Việt nhé, anh/em.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951865"
+    },
+    {
+      "english": "You're a fast learner, I see.",
+      "Vietnamese": "Em học nhanh quá, anh thấy rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951871"
+    },
+    {
+      "english": "Your Vietnamese is getting better.",
+      "Vietnamese": "Tiếng Việt của em khá hơn rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951873"
+    },
+    {
+      "english": "Let's practice, it's fun.",
+      "Vietnamese": "Mình tập nhé, vui lắm đó.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951874"
+    },
+    {
+      "english": "You have a beautiful accent.",
+      "Vietnamese": "Giọng em hay lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951875"
+    },
+    {
+      "english": "I love hearing you speak Vietnamese.",
+      "Vietnamese": "Anh thích nghe em nói tiếng Việt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951876"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "Vietnamese": "Em làm tốt lắm, cố lên nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951878"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "Vietnamese": "Đừng ngại, cứ nói đi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951880"
+    },
+    {
+      "english": "Your effort is amazing.",
+      "Vietnamese": "Em cố gắng thật tuyệt vời.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951882"
+    },
+    {
+      "english": "You make learning easy.",
+      "Vietnamese": "Em làm việc học dễ dàng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951886"
+    },
+    {
+      "english": "I'm impressed, really.",
+      "Vietnamese": "Anh ấn tượng lắm, thật đó.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951887"
+    },
+    {
+      "english": "Let me help you, okay?",
+      "Vietnamese": "Để anh giúp em nhé, được không?",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951889"
+    },
+    {
+      "english": "You're a natural.",
+      "Vietnamese": "Em có năng khiếu.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951890"
+    },
+    {
+      "english": "This language suits you.",
+      "Vietnamese": "Tiếng này hợp với em.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951891"
+    },
+    {
+      "english": "You're not making mistakes, you're learning.",
+      "Vietnamese": "Em không sai, em đang học.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951892"
+    },
+    {
+      "english": "Every word you say, I notice.",
+      "Vietnamese": "Mỗi lời em nói, anh đều để ý.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951893"
+    },
+    {
+      "english": "You sound so charming.",
+      "Vietnamese": "Em nói nghe quyến rũ quá.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951894"
+    },
+    {
+      "english": "Let's speak Vietnamese more.",
+      "Vietnamese": "Mình nói tiếng Việt nhiều hơn đi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951895"
+    },
+    {
+      "english": "Your progress is beautiful.",
+      "Vietnamese": "Sự tiến bộ của em thật đẹp.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951898"
+    },
+    {
+      "english": "You're lighting up the room.",
+      "Vietnamese": "Em làm sáng bừng căn phòng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951899"
+    },
+    {
+      "english": "I can understand you.",
+      "Vietnamese": "Anh hiểu em nói.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951900"
+    },
+    {
+      "english": "You're speaking so clearly.",
+      "Vietnamese": "Em nói rõ ràng lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951903"
+    },
+    {
+      "english": "Let's celebrate your words.",
+      "Vietnamese": "Mình ăn mừng những lời em nói nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951904"
+    },
+    {
+      "english": "You have such a lovely voice.",
+      "Vietnamese": "Giọng em đẹp lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951905"
+    },
+    {
+      "english": "We're a great team.",
+      "Vietnamese": "Chúng ta là một đội tuyệt vời.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951906"
+    },
+    {
+      "english": "Your confidence is growing.",
+      "Vietnamese": "Sự tự tin của em đang lên.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951907"
+    },
+    {
+      "english": "I'm proud of you.",
+      "Vietnamese": "Anh tự hào về em.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951908"
+    },
+    {
+      "english": "You're unlocking new skills.",
+      "Vietnamese": "Em đang mở khóa kỹ năng mới.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951909"
+    },
+    {
+      "english": "Let's make more progress.",
+      "Vietnamese": "Mình tiến bộ hơn nữa nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951910"
+    },
+    {
+      "english": "You inspire me.",
+      "Vietnamese": "Em truyền cảm hứng cho anh.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951911"
+    },
+    {
+      "english": "Your accent is charmingly unique.",
+      "Vietnamese": "Giọng em có nét độc đáo.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951912"
+    },
+    {
+      "english": "I enjoy our lessons.",
+      "Vietnamese": "Anh thích những buổi học của chúng ta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951913"
+    },
+    {
+      "english": "You're making it look easy.",
+      "Vietnamese": "Em làm cho nó trông dễ dàng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951914"
+    },
+    {
+      "english": "Your vocabulary is expanding.",
+      "Vietnamese": "Từ vựng của em đang mở rộng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951915"
+    },
+    {
+      "english": "You're a quick study.",
+      "Vietnamese": "Em học rất nhanh.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951916"
+    },
+    {
+      "english": "Let's conquer this language together.",
+      "Vietnamese": "Mình cùng chinh phục ngôn ngữ này nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951917"
+    },
+    {
+      "english": "Your effort doesn't go unnoticed.",
+      "Vietnamese": "Sự cố gắng của em không hề uổng phí.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951918"
+    },
+    {
+      "english": "You're blossoming.",
+      "Vietnamese": "Em đang nở rộ.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951919"
+    },
+    {
+      "english": "You have a gift for languages.",
+      "Vietnamese": "Em có năng khiếu ngoại ngữ.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951920"
+    },
+    {
+      "english": "You're shining today.",
+      "Vietnamese": "Hôm nay em tỏa sáng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951921"
+    },
+    {
+      "english": "Let's learn Vietnamese, you and I.",
+      "Vietnamese": "Mình học tiếng Việt nhé, anh/em.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951923"
+    },
+    {
+      "english": "You're a fast learner, I see.",
+      "Vietnamese": "Em học nhanh quá, anh thấy rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951925"
+    },
+    {
+      "english": "Your Vietnamese is getting better.",
+      "Vietnamese": "Tiếng Việt của em khá hơn rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951926"
+    },
+    {
+      "english": "Let's practice, it's fun.",
+      "Vietnamese": "Mình tập nhé, vui lắm đó.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951927"
+    },
+    {
+      "english": "You have a beautiful accent.",
+      "Vietnamese": "Giọng em hay lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951928"
+    },
+    {
+      "english": "I love hearing you speak Vietnamese.",
+      "Vietnamese": "Anh thích nghe em nói tiếng Việt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951929"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "Vietnamese": "Em làm tốt lắm, cố lên nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951930"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "Vietnamese": "Đừng ngại, cứ nói đi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951931"
+    },
+    {
+      "english": "Your effort is amazing.",
+      "Vietnamese": "Em cố gắng thật tuyệt vời.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951932"
+    },
+    {
+      "english": "You make learning easy.",
+      "Vietnamese": "Em làm việc học dễ dàng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951933"
+    },
+    {
+      "english": "I'm impressed, really.",
+      "Vietnamese": "Anh ấn tượng lắm, thật đó.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951934"
+    },
+    {
+      "english": "Let me help you, okay?",
+      "Vietnamese": "Để anh giúp em nhé, được không?",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951935"
+    },
+    {
+      "english": "You're a natural.",
+      "Vietnamese": "Em có năng khiếu.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951936"
+    },
+    {
+      "english": "This language suits you.",
+      "Vietnamese": "Tiếng này hợp với em.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951937"
+    },
+    {
+      "english": "You're not making mistakes, you're learning.",
+      "Vietnamese": "Em không sai, em đang học.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951938"
+    },
+    {
+      "english": "Every word you say, I notice.",
+      "Vietnamese": "Mỗi lời em nói, anh đều để ý.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951939"
+    },
+    {
+      "english": "You sound so charming.",
+      "Vietnamese": "Em nói nghe quyến rũ quá.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951940"
+    },
+    {
+      "english": "Let's speak Vietnamese more.",
+      "Vietnamese": "Mình nói tiếng Việt nhiều hơn đi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951941"
+    },
+    {
+      "english": "Your progress is beautiful.",
+      "Vietnamese": "Sự tiến bộ của em thật đẹp.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951942"
+    },
+    {
+      "english": "You're lighting up the room.",
+      "Vietnamese": "Em làm sáng bừng căn phòng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951943"
+    },
+    {
+      "english": "I can understand you.",
+      "Vietnamese": "Anh hiểu em nói.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951944"
+    },
+    {
+      "english": "You're speaking so clearly.",
+      "Vietnamese": "Em nói rõ ràng lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951945"
+    },
+    {
+      "english": "Let's celebrate your words.",
+      "Vietnamese": "Mình ăn mừng những lời em nói nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951946"
+    },
+    {
+      "english": "You have such a lovely voice.",
+      "Vietnamese": "Giọng em đẹp lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951947"
+    },
+    {
+      "english": "We're a great team.",
+      "Vietnamese": "Chúng ta là một đội tuyệt vời.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951948"
+    },
+    {
+      "english": "Your confidence is growing.",
+      "Vietnamese": "Sự tự tin của em đang lên.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951949"
+    },
+    {
+      "english": "I'm proud of you.",
+      "Vietnamese": "Anh tự hào về em.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951950"
+    },
+    {
+      "english": "You're unlocking new skills.",
+      "Vietnamese": "Em đang mở khóa kỹ năng mới.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951951"
+    },
+    {
+      "english": "Let's make more progress.",
+      "Vietnamese": "Mình tiến bộ hơn nữa nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951952"
+    },
+    {
+      "english": "You inspire me.",
+      "Vietnamese": "Em truyền cảm hứng cho anh.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951953"
+    },
+    {
+      "english": "Your accent is charmingly unique.",
+      "Vietnamese": "Giọng em có nét độc đáo.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951954"
+    },
+    {
+      "english": "I enjoy our lessons.",
+      "Vietnamese": "Anh thích những buổi học của chúng ta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951955"
+    },
+    {
+      "english": "You're making it look easy.",
+      "Vietnamese": "Em làm cho nó trông dễ dàng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951957"
+    },
+    {
+      "english": "Your vocabulary is expanding.",
+      "Vietnamese": "Từ vựng của em đang mở rộng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951958"
+    },
+    {
+      "english": "You're a quick study.",
+      "Vietnamese": "Em học rất nhanh.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951959"
+    },
+    {
+      "english": "Let's conquer this language together.",
+      "Vietnamese": "Mình cùng chinh phục ngôn ngữ này nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951960"
+    },
+    {
+      "english": "Your effort doesn't go unnoticed.",
+      "Vietnamese": "Sự cố gắng của em không hề uổng phí.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951961"
+    },
+    {
+      "english": "You're blossoming.",
+      "Vietnamese": "Em đang nở rộ.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951962"
+    },
+    {
+      "english": "You have a gift for languages.",
+      "Vietnamese": "Em có năng khiếu ngoại ngữ.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951963"
+    },
+    {
+      "english": "You're shining today.",
+      "Vietnamese": "Hôm nay em tỏa sáng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951964"
+    },
+    {
+      "english": "Let's learn Vietnamese, you and I.",
+      "Vietnamese": "Mình học tiếng Việt nhé, anh/em.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951965"
+    },
+    {
+      "english": "You're a fast learner, I see.",
+      "Vietnamese": "Em học nhanh quá, anh thấy rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951966"
+    },
+    {
+      "english": "Your Vietnamese is getting better.",
+      "Vietnamese": "Tiếng Việt của em khá hơn rồi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951967"
+    },
+    {
+      "english": "Let's practice, it's fun.",
+      "Vietnamese": "Mình tập nhé, vui lắm đó.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951968"
+    },
+    {
+      "english": "You have a beautiful accent.",
+      "Vietnamese": "Giọng em hay lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951971"
+    },
+    {
+      "english": "I love hearing you speak Vietnamese.",
+      "Vietnamese": "Anh thích nghe em nói tiếng Việt.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951972"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "Vietnamese": "Em làm tốt lắm, cố lên nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951973"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "Vietnamese": "Đừng ngại, cứ nói đi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951974"
+    },
+    {
+      "english": "Your effort is amazing.",
+      "Vietnamese": "Em cố gắng thật tuyệt vời.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951975"
+    },
+    {
+      "english": "You make learning easy.",
+      "Vietnamese": "Em làm việc học dễ dàng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951976"
+    },
+    {
+      "english": "I'm impressed, really.",
+      "Vietnamese": "Anh ấn tượng lắm, thật đó.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951977"
+    },
+    {
+      "english": "Let me help you, okay?",
+      "Vietnamese": "Để anh giúp em nhé, được không?",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951978"
+    },
+    {
+      "english": "You're a natural.",
+      "Vietnamese": "Em có năng khiếu.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951979"
+    },
+    {
+      "english": "This language suits you.",
+      "Vietnamese": "Tiếng này hợp với em.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951980"
+    },
+    {
+      "english": "You're not making mistakes, you're learning.",
+      "Vietnamese": "Em không sai, em đang học.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951981"
+    },
+    {
+      "english": "Every word you say, I notice.",
+      "Vietnamese": "Mỗi lời em nói, anh đều để ý.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951982"
+    },
+    {
+      "english": "You sound so charming.",
+      "Vietnamese": "Em nói nghe quyến rũ quá.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951983"
+    },
+    {
+      "english": "Let's speak Vietnamese more.",
+      "Vietnamese": "Mình nói tiếng Việt nhiều hơn đi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951984"
+    },
+    {
+      "english": "Your progress is beautiful.",
+      "Vietnamese": "Sự tiến bộ của em thật đẹp.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951985"
+    },
+    {
+      "english": "You're lighting up the room.",
+      "Vietnamese": "Em làm sáng bừng căn phòng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951986"
+    },
+    {
+      "english": "I can understand you.",
+      "Vietnamese": "Anh hiểu em nói.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951987"
+    },
+    {
+      "english": "You're speaking so clearly.",
+      "Vietnamese": "Em nói rõ ràng lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951988"
+    },
+    {
+      "english": "Let's celebrate your words.",
+      "Vietnamese": "Mình ăn mừng những lời em nói nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951989"
+    },
+    {
+      "english": "You have such a lovely voice.",
+      "Vietnamese": "Giọng em đẹp lắm.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951990"
+    },
+    {
+      "english": "We're a great team.",
+      "Vietnamese": "Chúng ta là một đội tuyệt vời.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951992"
+    },
+    {
+      "english": "Your confidence is growing.",
+      "Vietnamese": "Sự tự tin của em đang lên.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951994"
+    },
+    {
+      "english": "I'm proud of you.",
+      "Vietnamese": "Anh tự hào về em.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951995"
+    },
+    {
+      "english": "You're unlocking new skills.",
+      "Vietnamese": "Em đang mở khóa kỹ năng mới.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951996"
+    },
+    {
+      "english": "Let's make more progress.",
+      "Vietnamese": "Mình tiến bộ hơn nữa nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951997"
+    },
+    {
+      "english": "You inspire me.",
+      "Vietnamese": "Em truyền cảm hứng cho anh.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951998"
+    },
+    {
+      "english": "Your accent is charmingly unique.",
+      "Vietnamese": "Giọng em có nét độc đáo.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951999"
+    },
+    {
+      "english": "I enjoy our lessons.",
+      "Vietnamese": "Anh thích những buổi học của chúng ta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.951999"
+    },
+    {
+      "english": "You're making it look easy.",
+      "Vietnamese": "Em làm cho nó trông dễ dàng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.952000"
+    },
+    {
+      "english": "Your vocabulary is expanding.",
+      "Vietnamese": "Từ vựng của em đang mở rộng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.952001"
+    },
+    {
+      "english": "You're a quick study.",
+      "Vietnamese": "Em học rất nhanh.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.952002"
+    },
+    {
+      "english": "Let's conquer this language together.",
+      "Vietnamese": "Mình cùng chinh phục ngôn ngữ này nhé.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.952003"
+    },
+    {
+      "english": "Your effort doesn't go unnoticed.",
+      "Vietnamese": "Sự cố gắng của em không hề uổng phí.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.952004"
+    },
+    {
+      "english": "You're blossoming.",
+      "Vietnamese": "Em đang nở rộ.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.952005"
+    },
+    {
+      "english": "You have a gift for languages.",
+      "Vietnamese": "Em có năng khiếu ngoại ngữ.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.952006"
+    },
+    {
+      "english": "You're shining today.",
+      "Vietnamese": "Hôm nay em tỏa sáng.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T01:18:20.952007"
     }
   ],
-  "last_updated": "2026-07-22T04:13:03.319744"
+  "last_updated": "2026-07-24T01:18:20.952009"
 }
