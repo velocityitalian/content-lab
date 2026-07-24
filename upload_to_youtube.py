@@ -23,7 +23,9 @@ def get_authenticated_service():
         client_id=YT_CLIENT_ID, client_secret=YT_CLIENT_SECRET
     )
     creds.refresh(Request())
-    return build("youtube", "v3", credentials=creds)
+    service = build("youtube", "v3", credentials=creds)
+    service._http.timeout = 600
+    return service
 
 
 def compress_thumbnail(img_path, max_size=2097152):
@@ -54,17 +56,18 @@ def upload_to_youtube():
             print(f"[youtube] Video not found: {video_path}")
             return False
 
-        title = meta["title"]
-        if not title or len(title.strip()) < 5:
-            title = f"Learn Vietnamese - Language Learning"
-            print(f"[youtube] Using fallback title")
-        description = meta["description"]
+        title = meta.get("title", "").strip()
+        if not title:
+            title = f"Learn Vietnamese: {meta.get('category_english', 'Language')}"
+        if len(title) > 97:
+            title = title[:94] + "..."
+        description = meta.get("description", "")
         if len(description) > 4900:
             description = description[:4900] + "\n\n#LearnVietnamese #Vietnamese #LanguageLearning"
             print(f"[youtube] Description truncated to {len(description)} chars")
-        tags = meta["tags"]
+        tags = meta.get("tags", ["Learn Vietnamese", "Vietnamese Phrases"])
 
-        print(f"[youtube] Title: {title[:80]}...")
+        print(f"[youtube] Title: '{title[:80]}...' (len={len(title)})")
         print(f"[youtube] Video: {video_path}")
 
         youtube = get_authenticated_service()
